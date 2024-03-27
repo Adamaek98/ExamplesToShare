@@ -1,0 +1,1001 @@
+﻿id,kraj,kategoria_produktów,cena,liczba_produktów_w_koszyku
+1,USA,Uroda,1086.22,4
+2,Włochy,Gry,3297.84,3
+3,Chiny,Motoryzacja,1975.38,1
+4,Kanada,Zdrowie,3259.65,3
+5,Hiszpania,Elektronika,541.9,2
+6,USA,Uroda,3292.65,8
+7,Japonia,Elektronika,4997.07,6
+8,Francja,Książki,250.58,9
+9,USA,Elektronika,4886.1,8
+10,Chiny,Elektronika,2040.47,3
+11,Chiny,Uroda,4355.06,5
+12,Kanada,Dom i Ogród,3914.1,7
+13,Hiszpania,Sport i Turystyka,2839.41,5
+14,Włochy,Gry,3694.86,8
+15,Kanada,Gry,4393.79,5
+16,Kanada,Motoryzacja,2026.66,1
+17,Francja,Uroda,1641.9,5
+18,UK,Motoryzacja,3341.29,4
+19,Hiszpania,Zdrowie,4041.15,6
+20,Niemcy,Zdrowie,3813.8,3
+21,Kanada,Motoryzacja,3991.09,5
+22,UK,Uroda,2183.56,2
+23,Niemcy,Motoryzacja,4090.99,6
+24,Hiszpania,Gry,609.84,6
+25,Polska,Muzyka,2727.0,5
+26,Japonia,Moda,38.74,6
+27,UK,Elektronika,1629.68,7
+28,Australia,Moda,1838.64,5
+29,Polska,Uroda,1986.9,1
+30,Chiny,Film,3480.38,8
+31,Chiny,Moda,1948.9,4
+32,Japonia,Zdrowie,2248.98,9
+33,Francja,Książki,1195.35,6
+34,USA,Elektronika,1872.53,1
+35,Włochy,Sport i Turystyka,1144.08,3
+36,Australia,Film,375.25,3
+37,Francja,Uroda,3021.21,4
+38,Hiszpania,Elektronika,3344.38,6
+39,Francja,Moda,3101.26,7
+40,USA,Zdrowie,2322.84,4
+41,Hiszpania,Dom i Ogród,1905.13,6
+42,Australia,Muzyka,4318.03,1
+43,USA,Sport i Turystyka,2600.22,8
+44,Niemcy,Film,2401.12,7
+45,Włochy,Muzyka,137.95,9
+46,Australia,Elektronika,1712.83,3
+47,Niemcy,Zdrowie,1907.18,2
+48,Japonia,Zdrowie,2000.13,1
+49,Australia,Moda,2905.06,3
+50,Japonia,Gry,2672.68,5
+51,Hiszpania,Moda,3043.45,2
+52,Niemcy,Gry,3826.77,3
+53,Włochy,Gry,4066.8,4
+54,USA,Sport i Turystyka,3593.43,7
+55,Kanada,Moda,4778.06,3
+56,Francja,Dom i Ogród,100.98,9
+57,Polska,Film,986.93,8
+58,Włochy,Motoryzacja,47.74,4
+59,Niemcy,Motoryzacja,3240.9,1
+60,Kanada,Moda,4491.17,1
+61,Włochy,Moda,1224.98,1
+62,Niemcy,Muzyka,4635.9,1
+63,UK,Film,310.73,8
+64,UK,Film,4672.84,3
+65,Japonia,Sport i Turystyka,1764.6,6
+66,Włochy,Moda,516.09,3
+67,UK,Film,2434.5,5
+68,Niemcy,Muzyka,1291.32,7
+69,Japonia,Gry,1431.52,2
+70,Niemcy,Zdrowie,1543.38,6
+71,Japonia,Zdrowie,4017.1,6
+72,Włochy,Gry,2700.41,3
+73,Kanada,Uroda,1563.43,6
+74,USA,Muzyka,3055.57,5
+75,Australia,Film,3583.59,2
+76,Kanada,Muzyka,1370.39,9
+77,Hiszpania,Gry,2073.61,8
+78,Niemcy,Dom i Ogród,618.21,3
+79,Hiszpania,Książki,913.94,8
+80,Kanada,Elektronika,3408.78,9
+81,Japonia,Gry,915.38,3
+82,Australia,Film,2630.57,3
+83,Australia,Moda,3548.14,2
+84,Polska,Moda,543.32,8
+85,Australia,Sport i Turystyka,2840.89,1
+86,USA,Gry,1290.25,8
+87,Australia,Sport i Turystyka,4815.01,7
+88,Kanada,Gry,2422.89,7
+89,Polska,Muzyka,4031.9,3
+90,Kanada,Elektronika,2755.63,1
+91,Kanada,Muzyka,226.63,4
+92,Chiny,Książki,3169.43,9
+93,Francja,Zdrowie,4757.5,5
+94,Polska,Motoryzacja,3012.04,1
+95,Kanada,Gry,4097.75,5
+96,Francja,Książki,4422.19,8
+97,Francja,Zdrowie,1148.12,8
+98,Polska,Film,1068.1,5
+99,Chiny,Uroda,3058.8,9
+100,Hiszpania,Elektronika,2061.03,1
+101,Japonia,Sport i Turystyka,4200.91,4
+102,USA,Sport i Turystyka,4501.12,3
+103,Japonia,Muzyka,1773.57,2
+104,Australia,Moda,1191.98,8
+105,USA,Zdrowie,3904.82,7
+106,Australia,Uroda,1381.28,9
+107,Kanada,Książki,4114.85,2
+108,Niemcy,Elektronika,2124.45,4
+109,Polska,Zdrowie,3341.07,6
+110,USA,Uroda,486.72,3
+111,USA,Motoryzacja,3123.06,8
+112,Kanada,Gry,2264.32,3
+113,Hiszpania,Sport i Turystyka,2937.18,2
+114,Francja,Książki,848.39,3
+115,Kanada,Sport i Turystyka,3687.0,6
+116,UK,Książki,4315.36,2
+117,Chiny,Muzyka,1091.53,8
+118,Francja,Moda,487.62,1
+119,Polska,Książki,127.96,7
+120,Francja,Sport i Turystyka,3213.44,2
+121,Hiszpania,Muzyka,3039.4,6
+122,Francja,Książki,2738.02,2
+123,Polska,Motoryzacja,1167.42,2
+124,Hiszpania,Moda,1960.62,8
+125,Japonia,Książki,2976.44,2
+126,USA,Muzyka,2488.87,7
+127,USA,Film,4939.05,3
+128,Chiny,Zdrowie,690.83,8
+129,Australia,Dom i Ogród,3478.77,7
+130,Japonia,Uroda,2027.55,8
+131,Japonia,Dom i Ogród,2146.72,7
+132,Francja,Film,3590.81,6
+133,USA,Dom i Ogród,3465.26,7
+134,Polska,Film,4956.37,5
+135,Włochy,Elektronika,650.69,7
+136,Włochy,Film,529.51,1
+137,Hiszpania,Film,3624.45,1
+138,USA,Film,2896.15,9
+139,USA,Motoryzacja,1378.06,5
+140,Chiny,Zdrowie,406.3,5
+141,Włochy,Gry,437.43,3
+142,USA,Książki,4472.01,5
+143,Chiny,Uroda,967.42,3
+144,Francja,Moda,1623.62,9
+145,UK,Zdrowie,1141.02,9
+146,Niemcy,Sport i Turystyka,1781.43,6
+147,Japonia,Gry,356.42,1
+148,Australia,Elektronika,2600.11,7
+149,Hiszpania,Elektronika,347.39,7
+150,UK,Film,4003.78,4
+151,Włochy,Zdrowie,1176.22,8
+152,Chiny,Muzyka,2704.66,6
+153,Japonia,Dom i Ogród,4401.59,4
+154,USA,Sport i Turystyka,3257.88,4
+155,Australia,Elektronika,2669.46,2
+156,USA,Uroda,1628.43,2
+157,Polska,Elektronika,1671.68,4
+158,Polska,Moda,3350.74,5
+159,Australia,Książki,4970.76,8
+160,Chiny,Elektronika,3312.58,6
+161,Australia,Moda,2793.34,4
+162,Włochy,Zdrowie,3655.95,7
+163,Australia,Zdrowie,2331.38,8
+164,Francja,Gry,310.11,2
+165,USA,Elektronika,2815.86,7
+166,UK,Uroda,4788.55,2
+167,Kanada,Elektronika,884.76,2
+168,Chiny,Uroda,3453.12,8
+169,Australia,Motoryzacja,1012.66,2
+170,Hiszpania,Film,2683.78,9
+171,Polska,Gry,492.42,1
+172,Francja,Motoryzacja,2257.35,9
+173,Japonia,Elektronika,3783.26,1
+174,Kanada,Gry,1744.38,2
+175,Chiny,Motoryzacja,3327.91,6
+176,UK,Dom i Ogród,3979.3,6
+177,Kanada,Elektronika,4636.62,1
+178,Australia,Motoryzacja,1180.86,7
+179,Włochy,Dom i Ogród,2002.59,8
+180,Polska,Dom i Ogród,770.56,2
+181,Polska,Zdrowie,4962.49,8
+182,Japonia,Elektronika,4635.73,9
+183,Włochy,Dom i Ogród,2704.39,6
+184,USA,Zdrowie,4211.75,5
+185,Niemcy,Motoryzacja,2609.58,9
+186,Francja,Moda,3121.69,9
+187,Polska,Elektronika,454.73,1
+188,Hiszpania,Gry,3778.8,3
+189,Polska,Uroda,647.29,9
+190,Kanada,Uroda,4132.08,2
+191,Polska,Motoryzacja,3912.32,4
+192,Chiny,Muzyka,3546.64,4
+193,Polska,Muzyka,190.44,2
+194,Niemcy,Motoryzacja,1522.61,3
+195,Niemcy,Dom i Ogród,1322.93,3
+196,UK,Elektronika,1807.08,1
+197,USA,Uroda,447.34,6
+198,Hiszpania,Uroda,4685.42,8
+199,Polska,Dom i Ogród,2773.47,3
+200,Polska,Uroda,1534.57,5
+201,Francja,Gry,1990.94,1
+202,Niemcy,Elektronika,2241.54,7
+203,Hiszpania,Książki,3006.97,1
+204,Japonia,Uroda,2583.24,9
+205,UK,Motoryzacja,4597.77,8
+206,USA,Gry,2489.85,7
+207,Włochy,Uroda,4960.87,7
+208,USA,Film,4258.61,5
+209,Chiny,Gry,1050.47,5
+210,Kanada,Zdrowie,4653.67,5
+211,Chiny,Książki,590.67,1
+212,Polska,Sport i Turystyka,4089.07,8
+213,UK,Motoryzacja,1909.31,1
+214,Kanada,Motoryzacja,4391.09,4
+215,Hiszpania,Elektronika,4341.6,9
+216,Włochy,Gry,4031.57,9
+217,Niemcy,Dom i Ogród,3952.25,5
+218,UK,Motoryzacja,1530.35,4
+219,UK,Gry,413.79,3
+220,Chiny,Gry,2020.87,3
+221,Polska,Film,875.89,5
+222,Australia,Moda,3477.81,1
+223,Chiny,Moda,1737.04,5
+224,UK,Sport i Turystyka,4878.29,6
+225,Francja,Zdrowie,3208.45,7
+226,Włochy,Sport i Turystyka,4114.18,9
+227,Chiny,Uroda,671.3,3
+228,Włochy,Dom i Ogród,4311.45,2
+229,Francja,Uroda,4614.56,3
+230,Japonia,Muzyka,2440.44,9
+231,Francja,Uroda,3035.2,7
+232,Francja,Elektronika,3826.4,9
+233,Włochy,Uroda,882.44,2
+234,USA,Sport i Turystyka,2517.8,5
+235,Włochy,Motoryzacja,1999.33,4
+236,Australia,Motoryzacja,740.41,2
+237,Polska,Moda,1844.0,9
+238,Kanada,Dom i Ogród,350.18,9
+239,USA,Dom i Ogród,138.8,6
+240,Niemcy,Elektronika,684.48,6
+241,Kanada,Sport i Turystyka,4815.94,8
+242,Polska,Moda,2752.15,6
+243,Chiny,Film,4829.45,1
+244,Australia,Muzyka,2168.16,4
+245,Australia,Dom i Ogród,1565.96,7
+246,Niemcy,Motoryzacja,2535.65,2
+247,USA,Uroda,2203.16,9
+248,Japonia,Uroda,537.27,8
+249,Francja,Moda,3207.72,8
+250,USA,Sport i Turystyka,1088.03,7
+251,Japonia,Sport i Turystyka,3101.74,4
+252,Australia,Zdrowie,3254.5,2
+253,Włochy,Książki,768.6,3
+254,Polska,Dom i Ogród,316.13,6
+255,Niemcy,Sport i Turystyka,3906.0,5
+256,Polska,Motoryzacja,2304.4,8
+257,Hiszpania,Moda,300.24,6
+258,Hiszpania,Muzyka,4974.38,6
+259,Chiny,Zdrowie,298.32,1
+260,USA,Gry,3478.23,4
+261,Australia,Elektronika,4918.56,5
+262,Australia,Muzyka,1203.51,3
+263,Francja,Gry,719.82,9
+264,Francja,Film,615.71,1
+265,Francja,Uroda,1523.34,6
+266,Włochy,Elektronika,514.22,6
+267,Kanada,Dom i Ogród,3463.89,5
+268,UK,Motoryzacja,320.84,5
+269,Kanada,Elektronika,2552.02,5
+270,Polska,Książki,4983.52,6
+271,Kanada,Gry,4071.71,8
+272,Włochy,Dom i Ogród,3079.94,2
+273,Chiny,Książki,1538.21,6
+274,Polska,Uroda,3123.24,1
+275,Kanada,Książki,2639.94,4
+276,Włochy,Zdrowie,2136.16,3
+277,UK,Zdrowie,662.24,9
+278,Kanada,Film,4434.16,3
+279,Włochy,Moda,2254.43,6
+280,Francja,Muzyka,981.17,1
+281,Australia,Muzyka,1845.12,6
+282,Francja,Dom i Ogród,2076.51,4
+283,Australia,Uroda,4139.41,8
+284,Niemcy,Sport i Turystyka,3670.74,9
+285,Niemcy,Film,3848.83,4
+286,Niemcy,Zdrowie,65.05,6
+287,UK,Dom i Ogród,2086.61,1
+288,Francja,Sport i Turystyka,2411.91,4
+289,Australia,Muzyka,105.77,7
+290,Włochy,Moda,1306.47,1
+291,Polska,Książki,3803.85,8
+292,Włochy,Zdrowie,694.18,6
+293,Polska,Dom i Ogród,2681.2,5
+294,Hiszpania,Elektronika,1083.86,9
+295,Włochy,Sport i Turystyka,70.48,2
+296,Kanada,Książki,1213.6,5
+297,Kanada,Zdrowie,4879.61,6
+298,USA,Muzyka,4009.67,7
+299,Francja,Uroda,4798.29,5
+300,Polska,Sport i Turystyka,2444.39,9
+301,Polska,Muzyka,557.58,1
+302,Chiny,Zdrowie,2744.32,7
+303,Francja,Sport i Turystyka,2277.34,7
+304,UK,Film,4223.34,4
+305,USA,Książki,499.43,9
+306,UK,Zdrowie,2446.32,5
+307,UK,Film,758.74,4
+308,UK,Gry,1630.13,7
+309,Francja,Dom i Ogród,3689.41,4
+310,UK,Książki,2385.33,3
+311,Kanada,Sport i Turystyka,1885.68,9
+312,Chiny,Uroda,1978.44,8
+313,Chiny,Muzyka,2302.64,1
+314,Niemcy,Elektronika,3927.23,7
+315,Hiszpania,Muzyka,4461.5,9
+316,Polska,Sport i Turystyka,4777.12,8
+317,Polska,Muzyka,3936.65,8
+318,Hiszpania,Dom i Ogród,1583.88,6
+319,Francja,Zdrowie,3443.79,4
+320,Włochy,Film,2193.64,8
+321,Francja,Elektronika,1280.81,3
+322,Polska,Motoryzacja,4205.95,9
+323,Polska,Sport i Turystyka,201.75,2
+324,Hiszpania,Moda,4509.79,2
+325,UK,Motoryzacja,2312.77,7
+326,Francja,Muzyka,3189.64,4
+327,Australia,Sport i Turystyka,3300.18,8
+328,Hiszpania,Film,4476.64,9
+329,Kanada,Gry,3186.98,7
+330,Polska,Film,3073.53,5
+331,Hiszpania,Moda,342.59,8
+332,Francja,Elektronika,2596.86,4
+333,Polska,Film,759.34,2
+334,Włochy,Uroda,3689.79,6
+335,Hiszpania,Gry,2565.99,9
+336,USA,Motoryzacja,3404.34,1
+337,Polska,Zdrowie,217.95,7
+338,Francja,Dom i Ogród,433.11,9
+339,Niemcy,Uroda,3584.45,9
+340,Australia,Gry,369.7,3
+341,Japonia,Zdrowie,365.57,5
+342,UK,Zdrowie,70.42,8
+343,Japonia,Sport i Turystyka,4782.94,8
+344,Francja,Gry,3690.17,4
+345,Kanada,Elektronika,1772.72,1
+346,Kanada,Muzyka,1489.71,1
+347,Niemcy,Moda,1755.02,4
+348,UK,Moda,3875.52,6
+349,USA,Motoryzacja,3310.24,8
+350,Niemcy,Motoryzacja,934.13,6
+351,Chiny,Moda,878.81,9
+352,Japonia,Film,500.99,9
+353,Niemcy,Elektronika,3304.91,2
+354,Japonia,Film,3824.22,1
+355,Polska,Film,1332.58,2
+356,Kanada,Dom i Ogród,114.52,5
+357,Polska,Książki,420.04,4
+358,Australia,Muzyka,4839.62,4
+359,Chiny,Dom i Ogród,1484.27,9
+360,UK,Sport i Turystyka,3848.42,8
+361,USA,Książki,3127.07,6
+362,Japonia,Książki,1915.88,1
+363,USA,Gry,1036.38,2
+364,Japonia,Elektronika,615.72,6
+365,Francja,Elektronika,3078.91,2
+366,Niemcy,Książki,3875.42,5
+367,Australia,Film,3223.08,5
+368,Kanada,Gry,2656.21,6
+369,Japonia,Muzyka,219.34,6
+370,USA,Książki,4842.76,6
+371,Australia,Uroda,3995.58,2
+372,Włochy,Motoryzacja,1471.18,3
+373,Włochy,Motoryzacja,4900.05,6
+374,Polska,Dom i Ogród,3013.39,8
+375,Kanada,Sport i Turystyka,2916.29,1
+376,Francja,Motoryzacja,3742.89,1
+377,USA,Zdrowie,4060.73,2
+378,Niemcy,Dom i Ogród,3285.83,6
+379,Niemcy,Motoryzacja,649.2,9
+380,USA,Sport i Turystyka,1697.95,4
+381,UK,Film,4641.14,3
+382,Francja,Film,1130.83,8
+383,Australia,Elektronika,1867.11,9
+384,Japonia,Elektronika,2166.06,5
+385,UK,Muzyka,2202.63,9
+386,Japonia,Książki,3068.57,2
+387,Japonia,Uroda,4715.95,3
+388,UK,Elektronika,1211.06,7
+389,Polska,Gry,616.29,7
+390,Włochy,Motoryzacja,995.38,6
+391,Japonia,Gry,4435.76,6
+392,UK,Sport i Turystyka,3232.6,2
+393,UK,Elektronika,1436.67,6
+394,Chiny,Uroda,4081.58,4
+395,Hiszpania,Sport i Turystyka,4308.24,3
+396,Polska,Zdrowie,4234.11,2
+397,Kanada,Zdrowie,4595.44,1
+398,Hiszpania,Gry,1268.68,5
+399,Hiszpania,Książki,3777.66,2
+400,USA,Dom i Ogród,2308.09,2
+401,Włochy,Książki,4211.57,7
+402,UK,Film,3645.17,8
+403,Włochy,Muzyka,3884.47,8
+404,Francja,Książki,3284.25,4
+405,USA,Muzyka,895.37,1
+406,Kanada,Muzyka,2729.68,7
+407,Włochy,Uroda,4923.5,1
+408,Niemcy,Elektronika,4687.57,4
+409,Japonia,Uroda,225.44,8
+410,Francja,Muzyka,832.43,2
+411,Polska,Sport i Turystyka,667.33,6
+412,Kanada,Zdrowie,3632.64,6
+413,Francja,Muzyka,4090.75,9
+414,Japonia,Uroda,1075.42,5
+415,USA,Sport i Turystyka,2534.2,4
+416,Japonia,Uroda,4205.11,5
+417,Hiszpania,Książki,3666.68,5
+418,Japonia,Motoryzacja,2715.76,8
+419,Hiszpania,Gry,2955.83,8
+420,USA,Dom i Ogród,2546.72,2
+421,Australia,Film,1494.77,7
+422,Hiszpania,Uroda,2829.46,8
+423,Polska,Dom i Ogród,3447.54,6
+424,Japonia,Moda,4367.88,5
+425,Japonia,Uroda,3185.09,9
+426,Polska,Motoryzacja,3808.0,3
+427,Niemcy,Dom i Ogród,808.76,4
+428,UK,Film,2313.17,9
+429,Australia,Muzyka,56.56,6
+430,Kanada,Uroda,1240.93,8
+431,Hiszpania,Elektronika,3635.04,7
+432,Polska,Gry,4959.13,2
+433,USA,Motoryzacja,504.9,3
+434,Hiszpania,Dom i Ogród,2013.46,1
+435,UK,Motoryzacja,4002.35,9
+436,USA,Sport i Turystyka,1028.14,7
+437,Francja,Film,2779.87,1
+438,Japonia,Gry,3668.03,3
+439,Francja,Muzyka,3083.77,4
+440,Hiszpania,Uroda,948.24,4
+441,UK,Uroda,1783.37,5
+442,Australia,Uroda,3921.12,3
+443,Hiszpania,Gry,2775.59,3
+444,Polska,Elektronika,36.1,1
+445,Włochy,Moda,3807.34,7
+446,Hiszpania,Zdrowie,186.2,1
+447,Japonia,Książki,3731.21,2
+448,Japonia,Dom i Ogród,1020.38,4
+449,Hiszpania,Elektronika,4790.79,4
+450,USA,Muzyka,1846.02,5
+451,Włochy,Dom i Ogród,1641.39,2
+452,Polska,Uroda,752.95,4
+453,Hiszpania,Motoryzacja,1534.97,1
+454,USA,Muzyka,4384.49,2
+455,Japonia,Dom i Ogród,4981.71,1
+456,Japonia,Film,1847.86,4
+457,UK,Uroda,2248.57,4
+458,Hiszpania,Dom i Ogród,3613.13,7
+459,Włochy,Motoryzacja,4432.12,9
+460,Niemcy,Film,2969.29,9
+461,Włochy,Uroda,1963.71,5
+462,Japonia,Moda,2068.98,1
+463,Japonia,Elektronika,3481.13,1
+464,Francja,Sport i Turystyka,26.06,6
+465,Japonia,Książki,3101.75,2
+466,Polska,Gry,1783.91,8
+467,Kanada,Książki,3973.04,9
+468,Hiszpania,Muzyka,474.02,4
+469,Włochy,Książki,2945.13,5
+470,Kanada,Uroda,2410.05,8
+471,USA,Moda,3215.2,3
+472,Niemcy,Sport i Turystyka,333.62,5
+473,Polska,Elektronika,2904.12,3
+474,Chiny,Elektronika,2811.81,3
+475,Włochy,Motoryzacja,2807.69,3
+476,Kanada,Gry,3021.4,7
+477,Niemcy,Dom i Ogród,3385.58,7
+478,Francja,Moda,4026.9,7
+479,Polska,Dom i Ogród,1356.41,8
+480,Polska,Sport i Turystyka,4127.0,5
+481,Francja,Książki,2496.3,5
+482,Chiny,Elektronika,394.52,4
+483,Hiszpania,Sport i Turystyka,302.17,7
+484,Francja,Książki,1677.85,4
+485,Polska,Elektronika,3926.64,2
+486,Polska,Książki,3541.33,4
+487,Kanada,Gry,3945.19,8
+488,Japonia,Moda,2591.17,9
+489,Chiny,Film,2206.59,3
+490,Niemcy,Muzyka,745.79,7
+491,Francja,Sport i Turystyka,1647.68,9
+492,Niemcy,Sport i Turystyka,2175.76,4
+493,Francja,Film,452.12,3
+494,USA,Zdrowie,1110.85,5
+495,Polska,Uroda,2995.14,1
+496,Japonia,Gry,3680.96,3
+497,Kanada,Gry,4991.75,8
+498,Japonia,Film,4666.24,8
+499,Japonia,Dom i Ogród,3216.4,4
+500,Japonia,Książki,2112.03,2
+501,Niemcy,Uroda,3184.53,8
+502,Francja,Moda,3930.4,8
+503,Australia,Moda,600.5,4
+504,USA,Film,2055.43,3
+505,Włochy,Gry,4200.61,2
+506,Japonia,Moda,1925.33,9
+507,Hiszpania,Zdrowie,2863.64,1
+508,Niemcy,Sport i Turystyka,2942.97,7
+509,Chiny,Motoryzacja,930.54,5
+510,Kanada,Muzyka,1817.55,8
+511,Włochy,Film,1679.21,4
+512,Australia,Dom i Ogród,140.72,7
+513,Hiszpania,Książki,130.72,5
+514,Australia,Muzyka,4160.17,5
+515,Włochy,Książki,1372.62,9
+516,Japonia,Elektronika,2595.21,9
+517,Hiszpania,Muzyka,1500.64,9
+518,Australia,Motoryzacja,4703.99,6
+519,Kanada,Gry,1303.89,6
+520,Francja,Zdrowie,2153.99,5
+521,Polska,Sport i Turystyka,4364.92,9
+522,Francja,Sport i Turystyka,4211.25,8
+523,Włochy,Zdrowie,938.65,7
+524,Niemcy,Uroda,4015.19,7
+525,Polska,Elektronika,2296.35,6
+526,USA,Książki,2420.01,5
+527,Kanada,Motoryzacja,676.07,4
+528,USA,Moda,412.2,3
+529,Hiszpania,Muzyka,3642.42,3
+530,Polska,Elektronika,2487.34,6
+531,USA,Film,2189.89,4
+532,USA,Muzyka,3650.25,6
+533,Australia,Motoryzacja,3829.91,3
+534,Francja,Dom i Ogród,802.95,4
+535,Australia,Dom i Ogród,3055.02,9
+536,Polska,Elektronika,685.42,5
+537,Polska,Gry,3759.36,7
+538,Włochy,Motoryzacja,3288.21,2
+539,Australia,Motoryzacja,4783.51,5
+540,UK,Zdrowie,354.1,9
+541,Chiny,Gry,294.7,3
+542,Francja,Książki,1418.11,9
+543,Polska,Książki,1315.91,6
+544,Włochy,Moda,1242.42,4
+545,Australia,Sport i Turystyka,4532.21,7
+546,Francja,Dom i Ogród,1255.24,8
+547,Australia,Film,1367.03,6
+548,USA,Książki,3799.4,5
+549,Włochy,Gry,2254.2,6
+550,Francja,Motoryzacja,3885.79,5
+551,Japonia,Film,336.18,8
+552,Hiszpania,Książki,2442.98,1
+553,Hiszpania,Motoryzacja,177.73,7
+554,Francja,Książki,322.64,2
+555,Australia,Dom i Ogród,4533.12,9
+556,Włochy,Muzyka,704.83,1
+557,Chiny,Książki,2666.78,6
+558,Hiszpania,Gry,2061.37,9
+559,Włochy,Książki,1743.24,1
+560,Hiszpania,Sport i Turystyka,4500.17,4
+561,USA,Film,118.9,4
+562,Australia,Film,3322.31,9
+563,USA,Dom i Ogród,4817.34,5
+564,Hiszpania,Gry,2805.24,5
+565,Japonia,Zdrowie,4684.74,6
+566,Japonia,Gry,270.77,1
+567,USA,Film,2099.78,1
+568,Japonia,Sport i Turystyka,1308.19,9
+569,Hiszpania,Muzyka,3656.8,3
+570,Francja,Dom i Ogród,4906.67,4
+571,USA,Zdrowie,1290.09,1
+572,Chiny,Sport i Turystyka,3274.33,9
+573,Chiny,Sport i Turystyka,998.51,8
+574,Niemcy,Elektronika,2831.0,2
+575,Australia,Dom i Ogród,2325.02,8
+576,Japonia,Gry,4860.31,7
+577,Japonia,Motoryzacja,3046.55,6
+578,Polska,Muzyka,1754.04,1
+579,UK,Motoryzacja,579.34,7
+580,USA,Gry,764.72,7
+581,Kanada,Gry,1134.33,9
+582,Japonia,Dom i Ogród,1262.32,1
+583,Australia,Gry,4254.57,2
+584,Niemcy,Film,2810.5,9
+585,Chiny,Elektronika,2621.72,9
+586,Japonia,Zdrowie,582.7,6
+587,Niemcy,Gry,4302.1,6
+588,Hiszpania,Motoryzacja,3616.84,4
+589,Hiszpania,Gry,347.67,4
+590,UK,Elektronika,3542.1,5
+591,Francja,Film,2722.26,3
+592,Kanada,Film,417.81,1
+593,Polska,Książki,2296.92,1
+594,UK,Film,2428.63,7
+595,Włochy,Książki,837.21,1
+596,Polska,Sport i Turystyka,4729.03,1
+597,USA,Muzyka,4251.38,3
+598,Australia,Moda,3348.42,4
+599,Włochy,Film,2316.85,4
+600,Włochy,Zdrowie,2064.71,2
+601,UK,Uroda,3258.36,1
+602,Francja,Sport i Turystyka,2731.71,3
+603,UK,Film,320.74,4
+604,USA,Muzyka,2567.39,3
+605,Chiny,Książki,4033.95,8
+606,Japonia,Motoryzacja,2301.61,1
+607,Japonia,Uroda,269.26,2
+608,Francja,Muzyka,3933.53,7
+609,USA,Muzyka,1014.81,4
+610,Francja,Film,1300.52,8
+611,Niemcy,Sport i Turystyka,831.88,3
+612,Japonia,Uroda,1657.77,6
+613,Włochy,Dom i Ogród,3786.19,9
+614,Kanada,Moda,2601.74,1
+615,Australia,Dom i Ogród,1032.36,1
+616,USA,Uroda,4390.37,8
+617,Polska,Dom i Ogród,4399.11,3
+618,Francja,Film,4354.19,5
+619,Australia,Elektronika,1201.59,1
+620,Polska,Książki,2261.68,5
+621,Australia,Elektronika,4925.1,6
+622,Kanada,Gry,3862.34,8
+623,Polska,Dom i Ogród,145.57,3
+624,UK,Gry,335.37,3
+625,Hiszpania,Motoryzacja,2325.02,9
+626,UK,Zdrowie,4547.01,4
+627,Japonia,Motoryzacja,2698.12,4
+628,Hiszpania,Uroda,2494.08,7
+629,UK,Muzyka,536.31,2
+630,Hiszpania,Książki,3287.33,8
+631,Chiny,Dom i Ogród,4112.29,6
+632,Hiszpania,Sport i Turystyka,1908.3,3
+633,Włochy,Zdrowie,3880.3,9
+634,Francja,Moda,4822.74,5
+635,Francja,Moda,1026.79,8
+636,Włochy,Moda,2621.41,7
+637,Australia,Dom i Ogród,1442.82,8
+638,Niemcy,Moda,3966.34,7
+639,Australia,Film,2892.19,3
+640,Polska,Elektronika,3176.57,2
+641,Polska,Zdrowie,3991.59,7
+642,Hiszpania,Elektronika,1985.89,3
+643,UK,Muzyka,4576.3,3
+644,UK,Zdrowie,2669.81,2
+645,Francja,Elektronika,798.19,4
+646,USA,Zdrowie,3482.54,8
+647,Australia,Muzyka,3968.37,1
+648,Chiny,Gry,1590.64,1
+649,Japonia,Film,4287.32,5
+650,Kanada,Dom i Ogród,4531.65,5
+651,UK,Dom i Ogród,1391.75,1
+652,Kanada,Moda,4917.77,6
+653,Hiszpania,Film,712.15,1
+654,Kanada,Motoryzacja,1018.06,5
+655,Japonia,Moda,929.28,9
+656,Włochy,Uroda,4471.01,5
+657,Japonia,Film,3274.92,6
+658,Kanada,Elektronika,769.0,8
+659,Japonia,Zdrowie,2207.21,1
+660,Niemcy,Motoryzacja,3080.34,2
+661,Hiszpania,Film,426.49,9
+662,Australia,Muzyka,4413.26,3
+663,Włochy,Uroda,4019.98,6
+664,Chiny,Muzyka,2530.98,5
+665,UK,Dom i Ogród,4835.96,2
+666,Polska,Dom i Ogród,2094.63,7
+667,Australia,Moda,4920.71,4
+668,Polska,Elektronika,3342.92,1
+669,Hiszpania,Motoryzacja,3177.01,4
+670,Włochy,Książki,838.11,6
+671,Francja,Uroda,4410.82,7
+672,UK,Uroda,2143.17,7
+673,Niemcy,Film,819.54,7
+674,Francja,Moda,72.91,3
+675,Hiszpania,Dom i Ogród,2803.18,6
+676,Australia,Moda,2641.72,8
+677,Niemcy,Zdrowie,3599.57,4
+678,Japonia,Film,4452.39,8
+679,Kanada,Film,406.24,2
+680,Niemcy,Motoryzacja,3660.17,9
+681,Chiny,Elektronika,945.19,9
+682,Hiszpania,Gry,4292.3,8
+683,USA,Sport i Turystyka,4097.13,1
+684,Kanada,Sport i Turystyka,2708.56,2
+685,Polska,Film,3554.11,6
+686,UK,Moda,1578.61,5
+687,Polska,Zdrowie,2361.13,9
+688,Niemcy,Motoryzacja,4109.97,5
+689,Polska,Książki,2301.73,2
+690,Chiny,Sport i Turystyka,1795.41,4
+691,Hiszpania,Motoryzacja,2476.12,9
+692,Japonia,Film,4142.96,1
+693,Australia,Elektronika,1682.69,1
+694,UK,Muzyka,877.07,7
+695,Chiny,Zdrowie,3562.95,3
+696,Chiny,Dom i Ogród,4131.63,2
+697,Polska,Motoryzacja,512.18,9
+698,Polska,Elektronika,1206.97,3
+699,Niemcy,Książki,718.44,2
+700,Australia,Gry,1746.23,8
+701,Francja,Dom i Ogród,2257.25,6
+702,Polska,Film,3746.64,6
+703,Hiszpania,Gry,3259.23,7
+704,USA,Książki,3108.43,7
+705,UK,Elektronika,1768.35,6
+706,Polska,Sport i Turystyka,4208.82,4
+707,Hiszpania,Gry,2361.72,9
+708,Hiszpania,Film,4895.73,6
+709,UK,Dom i Ogród,3174.37,4
+710,Francja,Moda,640.06,3
+711,Hiszpania,Uroda,3384.13,4
+712,USA,Motoryzacja,1632.27,3
+713,Hiszpania,Sport i Turystyka,3434.77,2
+714,Hiszpania,Gry,357.51,5
+715,Hiszpania,Muzyka,882.66,2
+716,Japonia,Motoryzacja,4280.13,6
+717,Japonia,Moda,1143.63,3
+718,Francja,Książki,4186.84,6
+719,Polska,Uroda,1403.59,9
+720,Hiszpania,Elektronika,3217.98,1
+721,Australia,Moda,3473.81,6
+722,Polska,Moda,2568.15,9
+723,Francja,Książki,1533.5,4
+724,Włochy,Zdrowie,1071.1,2
+725,Polska,Książki,175.61,4
+726,Polska,Zdrowie,1526.69,1
+727,Kanada,Zdrowie,3269.28,3
+728,Niemcy,Sport i Turystyka,4692.14,9
+729,Kanada,Sport i Turystyka,4357.31,5
+730,USA,Dom i Ogród,3832.66,6
+731,Japonia,Gry,3944.35,3
+732,Japonia,Gry,3328.27,5
+733,Niemcy,Film,1308.83,8
+734,UK,Elektronika,4536.9,6
+735,UK,Gry,3356.95,4
+736,Francja,Sport i Turystyka,2806.6,2
+737,Chiny,Dom i Ogród,563.84,9
+738,Niemcy,Dom i Ogród,2240.81,1
+739,Polska,Zdrowie,2307.19,1
+740,UK,Film,4324.17,4
+741,Hiszpania,Książki,2737.77,7
+742,Chiny,Elektronika,1908.2,1
+743,Australia,Zdrowie,4884.23,9
+744,Polska,Książki,562.5,4
+745,USA,Gry,2118.52,3
+746,Hiszpania,Film,219.7,1
+747,Hiszpania,Zdrowie,3702.12,4
+748,Niemcy,Motoryzacja,4591.2,9
+749,Chiny,Gry,1407.39,6
+750,Francja,Książki,4293.12,6
+751,USA,Elektronika,1468.17,1
+752,UK,Książki,4554.74,2
+753,Niemcy,Zdrowie,3772.27,6
+754,UK,Zdrowie,4026.48,2
+755,Niemcy,Moda,99.85,3
+756,Niemcy,Elektronika,4814.42,4
+757,Niemcy,Muzyka,3636.09,5
+758,Chiny,Gry,1530.71,9
+759,Francja,Dom i Ogród,4148.68,4
+760,Niemcy,Elektronika,1414.79,9
+761,Włochy,Dom i Ogród,4365.04,3
+762,Australia,Elektronika,571.78,8
+763,UK,Elektronika,3521.39,1
+764,Polska,Książki,2708.09,9
+765,Kanada,Elektronika,491.71,9
+766,USA,Moda,1217.05,2
+767,Japonia,Muzyka,71.9,4
+768,Francja,Zdrowie,2349.15,8
+769,Polska,Uroda,1513.31,7
+770,Hiszpania,Dom i Ogród,2995.8,1
+771,Włochy,Zdrowie,1493.22,5
+772,Japonia,Uroda,1506.6,7
+773,Kanada,Muzyka,3718.53,4
+774,Polska,Muzyka,250.23,1
+775,Japonia,Dom i Ogród,4515.45,9
+776,Polska,Dom i Ogród,4262.8,5
+777,Włochy,Muzyka,3342.35,2
+778,Kanada,Uroda,2970.18,8
+779,Hiszpania,Elektronika,4462.59,2
+780,Niemcy,Gry,934.8,3
+781,UK,Film,404.06,1
+782,Hiszpania,Motoryzacja,1205.16,2
+783,Niemcy,Film,3974.95,7
+784,Chiny,Zdrowie,183.0,2
+785,Chiny,Książki,2918.21,6
+786,Chiny,Zdrowie,4977.23,3
+787,Francja,Książki,4279.92,4
+788,Australia,Uroda,2612.01,8
+789,USA,Książki,327.57,3
+790,USA,Dom i Ogród,4158.55,6
+791,Chiny,Gry,2998.9,1
+792,UK,Gry,583.52,7
+793,Kanada,Dom i Ogród,478.35,8
+794,Włochy,Moda,4549.04,8
+795,Kanada,Film,3349.31,3
+796,Włochy,Uroda,4148.14,1
+797,Kanada,Film,4396.1,9
+798,Australia,Moda,2863.14,6
+799,Francja,Moda,2592.06,9
+800,Francja,Zdrowie,2157.83,7
+801,Chiny,Muzyka,1591.56,1
+802,Niemcy,Zdrowie,2178.63,1
+803,Japonia,Muzyka,3871.66,6
+804,Francja,Motoryzacja,3013.6,5
+805,Francja,Książki,4463.69,9
+806,Hiszpania,Muzyka,2222.47,2
+807,Hiszpania,Film,3039.38,8
+808,Niemcy,Dom i Ogród,3160.22,5
+809,Japonia,Zdrowie,2962.57,2
+810,UK,Uroda,3516.14,6
+811,Hiszpania,Książki,1194.79,8
+812,UK,Motoryzacja,2566.7,4
+813,Polska,Muzyka,530.08,2
+814,Hiszpania,Motoryzacja,1928.71,5
+815,Australia,Uroda,2443.46,2
+816,Japonia,Moda,3264.6,2
+817,Niemcy,Gry,4753.15,6
+818,Polska,Uroda,3007.25,9
+819,Japonia,Sport i Turystyka,3720.53,4
+820,Chiny,Uroda,2536.27,6
+821,Australia,Motoryzacja,3174.18,7
+822,Japonia,Dom i Ogród,363.95,6
+823,Australia,Zdrowie,1279.41,8
+824,Australia,Dom i Ogród,1815.65,4
+825,UK,Motoryzacja,2367.74,1
+826,Kanada,Zdrowie,237.79,7
+827,Chiny,Sport i Turystyka,708.72,3
+828,Polska,Gry,1391.3,6
+829,Japonia,Książki,4857.95,2
+830,Włochy,Film,1663.42,9
+831,Polska,Motoryzacja,2415.38,1
+832,Kanada,Muzyka,988.53,6
+833,Polska,Motoryzacja,3057.79,6
+834,Francja,Motoryzacja,1410.61,5
+835,Włochy,Zdrowie,1042.89,5
+836,Kanada,Elektronika,2587.7,1
+837,UK,Uroda,37.47,5
+838,Japonia,Elektronika,48.24,2
+839,USA,Sport i Turystyka,1103.15,7
+840,Kanada,Muzyka,193.24,3
+841,Niemcy,Gry,549.05,4
+842,Japonia,Moda,1700.91,3
+843,Chiny,Sport i Turystyka,4014.9,3
+844,Kanada,Moda,2864.52,4
+845,Francja,Moda,2568.21,5
+846,USA,Gry,1474.51,1
+847,Francja,Dom i Ogród,4659.45,4
+848,USA,Elektronika,1991.11,8
+849,Chiny,Motoryzacja,444.59,7
+850,Niemcy,Książki,3089.16,9
+851,Japonia,Moda,578.05,5
+852,UK,Muzyka,1732.66,4
+853,Francja,Sport i Turystyka,2541.99,8
+854,Francja,Dom i Ogród,4372.37,9
+855,Australia,Moda,2472.8,7
+856,USA,Dom i Ogród,3514.27,7
+857,Hiszpania,Dom i Ogród,4964.16,5
+858,Japonia,Moda,666.13,4
+859,USA,Zdrowie,1380.91,1
+860,Australia,Uroda,1978.93,7
+861,Polska,Muzyka,2114.92,1
+862,USA,Motoryzacja,2061.0,1
+863,UK,Motoryzacja,4538.98,5
+864,Japonia,Muzyka,3573.02,9
+865,Australia,Zdrowie,3043.45,6
+866,Polska,Motoryzacja,1553.77,3
+867,Włochy,Dom i Ogród,4120.71,3
+868,Australia,Gry,4775.75,7
+869,Włochy,Sport i Turystyka,4107.78,6
+870,Japonia,Elektronika,17.81,9
+871,Francja,Motoryzacja,3185.64,6
+872,Australia,Muzyka,265.17,5
+873,Niemcy,Gry,1295.46,7
+874,Włochy,Moda,307.03,1
+875,UK,Uroda,3022.94,7
+876,Niemcy,Muzyka,3436.08,3
+877,Kanada,Dom i Ogród,581.29,9
+878,Kanada,Uroda,1925.36,6
+879,Polska,Sport i Turystyka,2286.62,9
+880,Francja,Sport i Turystyka,1851.57,5
+881,Japonia,Zdrowie,613.91,7
+882,Australia,Książki,2100.55,4
+883,Hiszpania,Zdrowie,3758.38,7
+884,UK,Gry,364.33,1
+885,Włochy,Uroda,410.1,7
+886,Japonia,Książki,1780.31,8
+887,Niemcy,Moda,4709.21,5
+888,Chiny,Dom i Ogród,3346.18,2
+889,Kanada,Uroda,3396.56,5
+890,Chiny,Zdrowie,1815.98,6
+891,UK,Elektronika,2972.37,2
+892,Hiszpania,Film,60.55,6
+893,Australia,Książki,3184.12,6
+894,Polska,Książki,4567.3,1
+895,Hiszpania,Dom i Ogród,3066.74,1
+896,UK,Motoryzacja,4369.76,3
+897,Hiszpania,Sport i Turystyka,3622.63,3
+898,UK,Sport i Turystyka,611.59,4
+899,UK,Elektronika,4513.24,2
+900,USA,Gry,341.55,9
+901,Włochy,Gry,2674.5,7
+902,Chiny,Moda,719.26,7
+903,Kanada,Uroda,68.42,6
+904,USA,Film,2115.95,3
+905,Australia,Muzyka,1482.25,6
+906,USA,Motoryzacja,2435.14,8
+907,Francja,Zdrowie,2890.23,8
+908,Francja,Muzyka,228.26,9
+909,Kanada,Muzyka,623.79,1
+910,Hiszpania,Książki,2797.63,1
+911,Włochy,Elektronika,1722.41,3
+912,Kanada,Sport i Turystyka,3648.58,3
+913,UK,Moda,3264.94,8
+914,Niemcy,Gry,4229.57,1
+915,Włochy,Film,3465.54,2
+916,Chiny,Elektronika,2155.36,2
+917,Włochy,Książki,3368.1,3
+918,UK,Zdrowie,1384.15,6
+919,UK,Moda,1538.5,1
+920,Polska,Książki,3947.04,2
+921,Kanada,Film,2237.63,1
+922,UK,Sport i Turystyka,3993.92,5
+923,Francja,Sport i Turystyka,4113.89,7
+924,Australia,Sport i Turystyka,4289.24,8
+925,Niemcy,Elektronika,4584.01,1
+926,Chiny,Elektronika,2160.62,7
+927,Kanada,Gry,1601.15,5
+928,Japonia,Gry,2915.17,1
+929,Francja,Zdrowie,1862.15,3
+930,Hiszpania,Film,3009.36,7
+931,UK,Moda,3530.87,1
+932,Japonia,Dom i Ogród,3445.14,7
+933,UK,Dom i Ogród,1879.02,5
+934,Włochy,Książki,842.63,1
+935,Francja,Sport i Turystyka,2158.34,1
+936,Włochy,Moda,721.54,1
+937,Polska,Muzyka,4451.58,9
+938,Włochy,Elektronika,1735.93,3
+939,Polska,Uroda,780.75,5
+940,Polska,Motoryzacja,136.98,9
+941,Japonia,Zdrowie,3232.65,6
+942,UK,Sport i Turystyka,3188.14,9
+943,Hiszpania,Sport i Turystyka,1709.61,8
+944,Chiny,Film,367.84,8
+945,Włochy,Sport i Turystyka,2054.05,1
+946,Chiny,Elektronika,1562.98,9
+947,Francja,Elektronika,3388.83,6
+948,Polska,Motoryzacja,3032.84,9
+949,UK,Muzyka,1829.32,3
+950,Niemcy,Moda,1097.28,3
+951,Kanada,Sport i Turystyka,4940.3,6
+952,Japonia,Dom i Ogród,2275.47,9
+953,Hiszpania,Gry,3444.49,7
+954,USA,Film,711.36,3
+955,Japonia,Film,2433.09,3
+956,Niemcy,Dom i Ogród,147.41,2
+957,Kanada,Książki,2532.22,9
+958,Niemcy,Dom i Ogród,4820.45,3
+959,Włochy,Książki,1927.19,5
+960,Polska,Uroda,204.59,9
+961,Hiszpania,Gry,164.47,8
+962,Australia,Film,1946.05,2
+963,Polska,Dom i Ogród,808.52,3
+964,Australia,Uroda,126.53,2
+965,Chiny,Zdrowie,3783.51,8
+966,Kanada,Moda,2298.03,6
+967,UK,Uroda,1453.33,6
+968,USA,Moda,4501.42,9
+969,Francja,Dom i Ogród,589.53,8
+970,Polska,Muzyka,4780.03,4
+971,Hiszpania,Uroda,1576.69,4
+972,Niemcy,Gry,4443.13,9
+973,Hiszpania,Dom i Ogród,3018.68,1
+974,Kanada,Sport i Turystyka,4135.27,2
+975,Chiny,Elektronika,4920.23,2
+976,Australia,Uroda,1449.14,6
+977,Niemcy,Gry,4806.07,4
+978,Francja,Zdrowie,1953.51,3
+979,Francja,Sport i Turystyka,1933.7,3
+980,Polska,Zdrowie,1708.53,3
+981,Kanada,Dom i Ogród,2711.62,6
+982,UK,Elektronika,779.18,8
+983,Kanada,Uroda,2773.02,7
+984,Chiny,Uroda,2713.11,4
+985,Australia,Muzyka,3811.89,4
+986,Hiszpania,Film,4169.91,2
+987,Francja,Muzyka,2207.8,1
+988,Hiszpania,Dom i Ogród,1518.64,9
+989,Hiszpania,Dom i Ogród,1304.08,2
+990,Hiszpania,Elektronika,981.17,8
+991,Francja,Muzyka,297.66,9
+992,Chiny,Gry,1718.82,4
+993,Japonia,Gry,1358.54,8
+994,Włochy,Elektronika,4832.42,9
+995,Australia,Film,2792.97,5
+996,Japonia,Gry,1742.91,7
+997,Australia,Książki,2906.53,4
+998,Niemcy,Moda,704.59,1
+999,Kanada,Elektronika,2225.78,3
+1000,Kanada,Elektronika,3134.91,5
