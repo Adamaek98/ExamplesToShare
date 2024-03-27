@@ -1,0 +1,1925 @@
+TransactionID,Country,Brand,VehicleCategory,Price,Quantity
+1,France,Honda,SUV,20514.82,3
+2,Italy,Volkswagen,Van,81801.3,3
+3,Japan,Toyota,Convertible,76199.07,1
+4,Italy,Toyota,Convertible,69220.29,1
+5,Italy,BMW,Convertible,80833.94,3
+6,Germany,Toyota,Coupe,61033.77,3
+7,Japan,Honda,SUV,76326.66,2
+8,Japan,Honda,Van,94813.77,2
+9,Japan,Honda,SUV,50064.4,2
+10,Italy,BMW,Coupe,76649.75,3
+11,France,BMW,Hatchback,58055.03,4
+12,Japan,Toyota,Sedan,73951.97,3
+13,South Korea,Ford,Van,81031.47,3
+14,Italy,Ford,Van,23636.2,2
+15,Germany,BMW,SUV,71728.04,3
+16,France,Toyota,Sedan,38139.29,1
+17,South Korea,Ford,Truck,73602.6,3
+18,South Korea,Toyota,Truck,57466.41,3
+19,Germany,Toyota,Coupe,81884.22,3
+20,France,Toyota,Truck,29872.07,3
+21,Italy,Mercedes,Van,70105.79,4
+22,USA,Honda,Truck,42277.66,3
+23,France,Toyota,Hatchback,88238.56,1
+24,Germany,Mercedes,Hatchback,94270.68,1
+25,South Korea,BMW,Hatchback,99711.86,3
+26,Italy,Ford,Truck,83680.59,2
+27,France,Honda,Coupe,80298.73,4
+28,USA,Ford,Convertible,37240.06,3
+29,USA,Honda,Convertible,46880.56,3
+30,Japan,Ford,Sedan,57254.6,3
+31,Japan,Honda,Convertible,81870.48,2
+32,Germany,Ford,Convertible,93197.27,2
+33,France,Ford,Hatchback,35131.13,2
+34,France,Ford,Hatchback,93789.4,4
+35,South Korea,Ford,Truck,75649.97,1
+36,South Korea,BMW,Sedan,68861.66,4
+37,South Korea,Toyota,SUV,35987.3,2
+38,Japan,Volkswagen,Van,24442.0,1
+39,France,Mercedes,Sedan,65477.19,1
+40,France,Volkswagen,Sedan,72121.25,2
+41,USA,Volkswagen,Coupe,36862.52,2
+42,Japan,Honda,Truck,64516.5,4
+43,Italy,Toyota,Coupe,88519.47,2
+44,Japan,Honda,Sedan,86805.28,1
+45,Italy,Toyota,Sedan,94188.41,3
+46,USA,Toyota,Sedan,49270.86,2
+47,Germany,Ford,Convertible,45443.97,2
+48,France,BMW,Van,79954.08,4
+49,USA,Ford,Van,54488.99,4
+50,France,BMW,Coupe,27003.89,2
+51,South Korea,Honda,Sedan,42624.09,1
+52,Germany,BMW,Van,53486.58,1
+53,Germany,Honda,Hatchback,43401.31,3
+54,USA,Volkswagen,Van,46576.45,2
+55,Germany,Volkswagen,Truck,43502.07,4
+56,Italy,BMW,Truck,23319.93,1
+57,Germany,BMW,Van,70967.58,3
+58,France,Honda,Hatchback,67783.39,2
+59,France,Ford,Truck,72270.68,1
+60,France,Honda,Convertible,35384.79,2
+61,France,Ford,Van,43652.36,2
+62,Italy,Volkswagen,Convertible,69569.27,1
+63,Japan,Toyota,Van,67970.21,1
+64,South Korea,BMW,SUV,60506.42,1
+65,USA,Ford,SUV,48033.06,2
+66,France,Honda,SUV,93034.48,2
+67,Germany,Volkswagen,Truck,47181.62,3
+68,France,Ford,Convertible,56449.53,4
+69,Germany,Honda,Convertible,74249.11,2
+70,South Korea,BMW,Convertible,63441.71,4
+71,South Korea,BMW,Hatchback,47750.88,1
+72,South Korea,Mercedes,Convertible,54851.58,2
+73,Germany,Toyota,Hatchback,83558.47,3
+74,France,Mercedes,SUV,42250.33,3
+75,South Korea,Volkswagen,SUV,31380.42,4
+76,Italy,Ford,Truck,45053.06,1
+77,Germany,Volkswagen,Van,87962.74,4
+78,Germany,Honda,SUV,27119.18,1
+79,France,BMW,Van,99335.69,3
+80,Germany,Mercedes,Van,63280.23,4
+81,Germany,Mercedes,Truck,98787.66,3
+82,South Korea,Mercedes,Sedan,95119.71,3
+83,France,Volkswagen,Sedan,56225.1,1
+84,South Korea,BMW,Coupe,35879.29,4
+85,South Korea,Ford,Truck,33190.78,4
+86,France,Honda,Coupe,39199.15,3
+87,USA,Ford,Coupe,76810.61,3
+88,South Korea,Volkswagen,Sedan,41836.0,1
+89,Italy,Honda,Truck,47314.02,2
+90,Italy,Mercedes,Sedan,55902.3,2
+91,Germany,Toyota,Coupe,93058.61,3
+92,Italy,Volkswagen,Truck,35151.47,2
+93,Germany,Volkswagen,Coupe,20402.12,2
+94,USA,BMW,Convertible,24807.71,2
+95,France,Ford,Van,92381.31,2
+96,France,Volkswagen,Truck,71801.32,3
+97,France,Volkswagen,Truck,41843.25,2
+98,Italy,Mercedes,Van,34175.4,2
+99,USA,Mercedes,Coupe,43541.34,1
+100,Italy,Honda,Convertible,29183.75,3
+101,Italy,Toyota,Hatchback,95322.63,4
+102,USA,BMW,Van,82736.49,4
+103,USA,Toyota,Sedan,56991.29,1
+104,USA,Honda,Coupe,89197.01,1
+105,USA,Mercedes,Van,39956.66,3
+106,France,Ford,Van,77369.65,4
+107,Japan,Mercedes,Truck,88490.6,2
+108,Japan,BMW,Sedan,48541.5,1
+109,USA,Mercedes,Sedan,80597.16,4
+110,Japan,BMW,Sedan,43605.79,3
+111,Japan,BMW,Van,43908.57,2
+112,USA,BMW,Hatchback,28564.57,3
+113,Japan,Honda,SUV,55204.64,1
+114,Italy,BMW,Coupe,78376.95,4
+115,Germany,BMW,SUV,95217.66,4
+116,Germany,Ford,Van,68303.76,4
+117,USA,Toyota,SUV,89050.84,4
+118,France,Volkswagen,Van,85799.57,2
+119,USA,Toyota,SUV,33867.44,2
+120,France,BMW,Sedan,58865.39,3
+121,Germany,Ford,Convertible,29353.88,2
+122,USA,Mercedes,Sedan,74572.25,1
+123,South Korea,Ford,Sedan,95991.97,1
+124,Italy,BMW,Truck,30967.16,4
+125,Japan,Ford,Truck,78710.65,1
+126,France,Ford,SUV,70579.05,3
+127,South Korea,BMW,Van,66688.4,2
+128,Japan,Honda,Sedan,51209.62,2
+129,Japan,Ford,SUV,48410.53,2
+130,USA,Volkswagen,Truck,23619.94,1
+131,Japan,Volkswagen,Convertible,37432.7,2
+132,Italy,Ford,Coupe,21214.15,4
+133,South Korea,Honda,SUV,66513.37,4
+134,Japan,Mercedes,Convertible,28468.26,4
+135,USA,BMW,Coupe,89841.55,1
+136,Italy,Volkswagen,Hatchback,61851.44,2
+137,Germany,Mercedes,SUV,75975.19,1
+138,South Korea,Ford,SUV,52868.57,2
+139,Japan,Mercedes,Hatchback,64846.38,3
+140,USA,Toyota,Hatchback,95412.73,3
+141,Germany,Volkswagen,SUV,26618.72,1
+142,Germany,Ford,Hatchback,40315.02,4
+143,France,BMW,Sedan,82399.07,1
+144,Italy,Honda,Coupe,27898.98,4
+145,Japan,Ford,Coupe,26052.89,2
+146,USA,BMW,Coupe,48923.31,4
+147,France,Honda,Sedan,27373.44,4
+148,Italy,Honda,Van,66806.28,2
+149,France,Ford,Hatchback,38102.02,3
+150,South Korea,Mercedes,Convertible,91655.84,2
+151,Italy,Mercedes,Hatchback,82680.01,1
+152,Italy,Honda,SUV,75976.42,1
+153,Japan,Mercedes,Truck,69355.52,1
+154,Italy,Toyota,Coupe,89077.26,1
+155,France,Honda,Hatchback,37844.96,1
+156,Italy,Honda,Convertible,89848.71,3
+157,Japan,BMW,SUV,83159.38,3
+158,Japan,Mercedes,Sedan,79852.87,4
+159,South Korea,Honda,Van,64900.45,1
+160,France,Toyota,Sedan,39699.53,2
+161,Germany,BMW,Convertible,53883.83,1
+162,Germany,Ford,SUV,83485.65,3
+163,Italy,Honda,Coupe,22542.28,1
+164,South Korea,Toyota,Hatchback,82564.06,3
+165,USA,Volkswagen,SUV,39205.66,4
+166,Italy,Toyota,Van,31544.74,4
+167,South Korea,Toyota,Sedan,29256.11,4
+168,France,BMW,Van,22180.0,3
+169,France,Ford,Van,61886.92,1
+170,France,Volkswagen,Convertible,37460.79,1
+171,France,Mercedes,Convertible,99154.54,2
+172,France,Mercedes,Hatchback,65954.94,3
+173,South Korea,Toyota,Convertible,31030.82,2
+174,South Korea,BMW,Convertible,75101.0,4
+175,Japan,BMW,SUV,91819.49,1
+176,Germany,Mercedes,Coupe,79614.36,3
+177,France,Volkswagen,Hatchback,26115.19,2
+178,USA,Ford,SUV,91670.73,2
+179,South Korea,Volkswagen,Coupe,83514.35,2
+180,USA,Honda,Van,32664.31,1
+181,USA,Honda,SUV,24142.87,1
+182,USA,Ford,Truck,64584.85,1
+183,Japan,Mercedes,SUV,32482.86,3
+184,South Korea,Ford,Convertible,86767.28,1
+185,USA,BMW,Coupe,48666.77,3
+186,France,Honda,Hatchback,93031.4,2
+187,Italy,Toyota,Hatchback,65255.05,2
+188,USA,Toyota,Coupe,34613.79,4
+189,Japan,Mercedes,Convertible,31167.91,1
+190,South Korea,BMW,Sedan,66117.8,2
+191,Japan,Volkswagen,SUV,80950.69,1
+192,USA,BMW,Convertible,82520.45,3
+193,South Korea,Toyota,Truck,42060.59,2
+194,Italy,Toyota,Van,36339.74,1
+195,USA,Honda,Coupe,21340.5,2
+196,Japan,BMW,SUV,74335.93,2
+197,Germany,BMW,Hatchback,26125.46,1
+198,France,Toyota,Van,53660.9,2
+199,Japan,Volkswagen,Sedan,68134.57,2
+200,South Korea,Mercedes,Truck,94968.72,2
+201,USA,Mercedes,Hatchback,44944.17,2
+202,France,BMW,Coupe,39981.77,3
+203,USA,Mercedes,SUV,72332.81,2
+204,South Korea,Toyota,Coupe,69539.12,4
+205,USA,Toyota,Van,46568.78,2
+206,Germany,BMW,SUV,94248.15,1
+207,France,BMW,Convertible,87588.99,4
+208,France,Honda,Sedan,37918.6,3
+209,South Korea,BMW,Convertible,39131.4,4
+210,Germany,Volkswagen,Convertible,60984.03,4
+211,Japan,Mercedes,Coupe,81885.77,4
+212,USA,BMW,Van,23523.23,1
+213,Italy,Ford,Sedan,75466.81,1
+214,USA,Honda,SUV,71858.87,1
+215,USA,Ford,SUV,38518.41,3
+216,Japan,Toyota,Truck,74508.24,1
+217,USA,Mercedes,Hatchback,95214.66,1
+218,Germany,BMW,Truck,23742.87,4
+219,Germany,Ford,Truck,45572.16,1
+220,France,Mercedes,SUV,55054.14,2
+221,South Korea,Toyota,Coupe,91940.83,1
+222,Italy,Volkswagen,Convertible,96980.92,3
+223,USA,Honda,Van,55529.22,3
+224,USA,Mercedes,Convertible,80002.27,2
+225,Japan,Mercedes,Convertible,62532.88,3
+226,South Korea,Volkswagen,Sedan,63022.63,3
+227,Germany,Mercedes,SUV,42247.96,4
+228,Italy,Toyota,Van,37356.5,2
+229,France,Toyota,Coupe,43040.43,4
+230,Germany,Volkswagen,Sedan,64506.24,4
+231,South Korea,Honda,Hatchback,22332.41,1
+232,France,BMW,Coupe,92579.92,2
+233,Japan,Ford,Truck,32502.7,1
+234,Japan,BMW,Coupe,37607.09,1
+235,USA,Mercedes,Coupe,61462.09,4
+236,South Korea,Ford,Convertible,76809.18,3
+237,Italy,Volkswagen,Coupe,27658.32,2
+238,France,Volkswagen,Truck,45415.58,3
+239,Germany,Honda,Truck,97493.97,4
+240,South Korea,Ford,SUV,40987.44,4
+241,South Korea,Toyota,Coupe,45044.01,4
+242,Japan,Ford,Convertible,86919.88,4
+243,USA,Mercedes,Coupe,24017.15,4
+244,USA,Toyota,Hatchback,57169.05,4
+245,France,Volkswagen,Hatchback,50369.34,3
+246,Japan,Ford,Convertible,45326.94,1
+247,South Korea,BMW,SUV,42855.97,3
+248,Italy,Honda,SUV,27309.93,2
+249,Japan,BMW,Truck,45186.07,3
+250,France,Honda,Truck,23444.19,4
+251,France,Mercedes,Sedan,82477.11,3
+252,Japan,BMW,Convertible,51858.22,1
+253,France,Ford,Coupe,55512.31,2
+254,Japan,Ford,Van,91487.57,3
+255,Germany,BMW,Convertible,72644.4,1
+256,Japan,Ford,Sedan,20644.73,3
+257,Japan,Mercedes,Truck,95453.99,2
+258,France,Toyota,Convertible,38971.56,3
+259,France,Mercedes,Convertible,28609.13,4
+260,USA,Honda,Truck,81450.25,3
+261,USA,Mercedes,Sedan,60038.19,1
+262,Germany,Honda,Truck,54701.65,3
+263,USA,Ford,SUV,39960.25,1
+264,Japan,Toyota,Coupe,63797.72,2
+265,France,Ford,Truck,41950.77,3
+266,USA,Volkswagen,Sedan,92126.64,2
+267,USA,Ford,Hatchback,37216.36,2
+268,Germany,Honda,SUV,90748.41,3
+269,South Korea,Ford,Hatchback,64752.43,1
+270,Germany,Ford,Van,86279.05,2
+271,Japan,Toyota,Truck,77027.68,2
+272,France,Ford,SUV,75735.61,3
+273,Germany,Toyota,Coupe,45947.66,3
+274,USA,BMW,Truck,38711.75,3
+275,France,Volkswagen,Coupe,36870.9,3
+276,France,Toyota,Convertible,88575.33,3
+277,USA,Honda,Hatchback,85634.15,4
+278,Germany,BMW,SUV,55245.88,3
+279,USA,Toyota,Coupe,30592.37,1
+280,South Korea,Toyota,Sedan,50580.18,2
+281,France,Volkswagen,Coupe,69547.48,1
+282,Italy,Honda,Sedan,56352.25,1
+283,Italy,Mercedes,Truck,82415.14,4
+284,Japan,Mercedes,SUV,99809.83,3
+285,USA,Toyota,Coupe,35290.57,2
+286,USA,Ford,Van,56772.07,1
+287,Japan,Honda,Coupe,54478.71,3
+288,Japan,BMW,Van,44359.4,3
+289,Japan,Ford,SUV,35847.64,4
+290,France,Ford,Coupe,25255.37,4
+291,South Korea,Honda,Sedan,90969.55,4
+292,USA,Toyota,Coupe,53587.9,2
+293,France,Toyota,Hatchback,59751.64,1
+294,Japan,Toyota,Truck,93355.36,4
+295,USA,Toyota,Convertible,82103.24,4
+296,France,Mercedes,Sedan,30440.1,4
+297,South Korea,Toyota,Hatchback,65233.6,1
+298,France,Mercedes,Van,55380.18,1
+299,South Korea,Mercedes,Truck,83776.89,4
+300,Japan,Toyota,SUV,77938.6,4
+301,South Korea,Volkswagen,Sedan,75232.46,3
+302,USA,BMW,Convertible,47243.59,4
+303,Japan,Ford,Truck,84397.1,2
+304,USA,Mercedes,Van,24191.3,2
+305,Italy,Honda,Convertible,32769.99,4
+306,Germany,Honda,SUV,46849.86,1
+307,South Korea,BMW,SUV,26144.6,3
+308,Germany,Honda,Van,38799.54,1
+309,Germany,Volkswagen,Sedan,86412.08,4
+310,South Korea,Honda,Van,95860.12,2
+311,Japan,Ford,Coupe,44368.19,3
+312,Italy,Ford,SUV,41161.26,1
+313,USA,Mercedes,Truck,42391.41,1
+314,France,Toyota,Coupe,42217.53,4
+315,USA,Volkswagen,Hatchback,22874.41,3
+316,France,Mercedes,Convertible,94153.31,2
+317,USA,Volkswagen,Coupe,37095.85,4
+318,South Korea,Toyota,Convertible,53600.33,3
+319,Italy,Honda,Van,20774.95,1
+320,France,Honda,Coupe,88636.41,4
+321,Japan,Toyota,Van,78492.59,1
+322,USA,Mercedes,Hatchback,95740.48,1
+323,USA,Toyota,SUV,82529.24,4
+324,France,BMW,Hatchback,45096.52,4
+325,Japan,Ford,SUV,39829.87,4
+326,Japan,Mercedes,Van,75817.3,4
+327,South Korea,Volkswagen,SUV,49129.02,4
+328,South Korea,BMW,Convertible,65297.2,1
+329,South Korea,Mercedes,Truck,20500.6,2
+330,South Korea,Toyota,Hatchback,24950.86,2
+331,South Korea,Toyota,Coupe,62829.44,4
+332,South Korea,Toyota,Hatchback,65285.73,1
+333,Italy,Toyota,Convertible,80116.24,2
+334,Japan,Volkswagen,SUV,30557.23,2
+335,South Korea,BMW,Convertible,61054.65,2
+336,Japan,Honda,Sedan,35555.81,1
+337,Japan,Ford,Sedan,27455.69,4
+338,Germany,Volkswagen,Coupe,52839.66,4
+339,Italy,Volkswagen,Convertible,33066.93,4
+340,South Korea,Honda,Van,37742.56,3
+341,USA,Honda,Coupe,45404.37,3
+342,France,Ford,Van,40751.07,3
+343,USA,Ford,Coupe,27007.3,1
+344,Italy,Honda,Sedan,27193.3,2
+345,France,Toyota,Coupe,35459.95,2
+346,Italy,Volkswagen,Sedan,24044.74,1
+347,Japan,Mercedes,SUV,70116.56,1
+348,France,Ford,Van,42986.14,4
+349,Japan,Ford,Convertible,42379.68,4
+350,USA,Honda,Coupe,46559.86,3
+351,USA,BMW,Sedan,73023.7,3
+352,France,Mercedes,Hatchback,89650.71,1
+353,France,Mercedes,Van,80726.95,3
+354,South Korea,Ford,Coupe,78202.34,2
+355,Italy,Toyota,Truck,58751.29,1
+356,South Korea,BMW,SUV,75504.44,1
+357,Italy,Mercedes,SUV,64220.99,2
+358,South Korea,Ford,Hatchback,37300.04,4
+359,Japan,Mercedes,Sedan,36687.07,4
+360,France,BMW,Coupe,43711.36,2
+361,USA,BMW,Van,92864.21,2
+362,Italy,Volkswagen,Sedan,63793.19,3
+363,Italy,Honda,SUV,78712.43,1
+364,USA,Honda,Sedan,47724.7,3
+365,South Korea,Ford,SUV,52617.26,2
+366,Italy,BMW,Sedan,30045.25,3
+367,Japan,Volkswagen,Hatchback,33703.6,2
+368,France,Volkswagen,Convertible,86188.52,3
+369,USA,Mercedes,Hatchback,66787.09,3
+370,France,Mercedes,Hatchback,47002.6,4
+371,Italy,Volkswagen,Convertible,84228.1,2
+372,Italy,Mercedes,Convertible,39721.59,3
+373,USA,BMW,Coupe,98082.62,1
+374,Japan,Toyota,Van,47585.41,3
+375,Germany,BMW,Van,46984.88,3
+376,USA,Volkswagen,Coupe,44952.95,1
+377,Germany,Volkswagen,Hatchback,29768.92,2
+378,South Korea,BMW,Hatchback,28890.97,4
+379,Germany,Mercedes,SUV,71848.4,4
+380,Japan,Mercedes,SUV,90009.44,4
+381,South Korea,Honda,Van,83241.64,1
+382,Germany,Volkswagen,Coupe,31288.61,3
+383,South Korea,Ford,Truck,63646.57,2
+384,Germany,Honda,Truck,28447.32,3
+385,Japan,Mercedes,Coupe,23623.57,4
+386,Germany,BMW,SUV,72510.87,3
+387,Germany,Mercedes,Van,62812.19,1
+388,Germany,BMW,Van,26561.89,1
+389,USA,Honda,SUV,22795.14,2
+390,USA,Volkswagen,Truck,99180.51,2
+391,USA,Mercedes,Sedan,22401.71,4
+392,Japan,BMW,Sedan,55562.26,2
+393,South Korea,Volkswagen,SUV,60369.52,3
+394,Italy,Ford,Sedan,29382.41,1
+395,Germany,BMW,Convertible,33524.94,1
+396,Germany,Honda,Coupe,48144.4,1
+397,Japan,Ford,Coupe,80934.07,2
+398,Germany,Ford,SUV,60566.59,1
+399,USA,Toyota,Hatchback,71032.15,1
+400,Italy,Mercedes,Truck,98813.96,1
+401,France,BMW,SUV,81440.43,4
+402,Germany,Ford,Sedan,54748.92,4
+403,USA,Toyota,Truck,55715.35,2
+404,France,Honda,Hatchback,69501.77,1
+405,Italy,Volkswagen,Sedan,73229.22,2
+406,France,BMW,Van,60056.87,1
+407,USA,Ford,Convertible,71588.9,1
+408,South Korea,Mercedes,Sedan,21882.6,1
+409,South Korea,Toyota,Convertible,54369.83,2
+410,France,Ford,Truck,42315.05,2
+411,Japan,Mercedes,Convertible,30333.96,1
+412,France,Ford,Truck,27963.72,3
+413,Germany,BMW,Truck,68255.37,2
+414,Germany,BMW,Truck,61888.04,4
+415,South Korea,BMW,Truck,40286.73,2
+416,Japan,Honda,Truck,57676.0,1
+417,USA,Honda,Sedan,59378.59,3
+418,Germany,Toyota,Truck,35600.72,1
+419,South Korea,BMW,Sedan,72167.44,4
+420,Italy,Mercedes,Truck,82473.55,2
+421,South Korea,Ford,Convertible,83317.08,2
+422,Germany,Volkswagen,Van,68197.59,1
+423,Germany,Mercedes,Truck,60931.09,1
+424,South Korea,Honda,Hatchback,24880.57,4
+425,USA,Honda,Truck,43026.5,3
+426,France,Mercedes,Truck,27461.72,4
+427,Germany,Honda,Convertible,97105.85,3
+428,South Korea,BMW,Coupe,30806.41,2
+429,South Korea,Toyota,Convertible,32142.03,3
+430,Japan,Ford,Hatchback,91166.13,3
+431,France,Toyota,Coupe,95514.26,2
+432,Italy,Ford,SUV,81266.32,2
+433,USA,Ford,SUV,20432.39,2
+434,Italy,Toyota,Hatchback,20107.7,4
+435,France,Mercedes,Convertible,50248.06,2
+436,France,Ford,Sedan,31471.63,1
+437,France,Toyota,Hatchback,21470.89,2
+438,Italy,Ford,Van,57125.34,2
+439,France,Volkswagen,Coupe,95444.95,2
+440,South Korea,Mercedes,Coupe,45905.57,3
+441,Italy,BMW,Truck,72891.25,4
+442,France,Ford,SUV,72178.83,2
+443,South Korea,Volkswagen,Coupe,40086.41,4
+444,Japan,BMW,Hatchback,72034.02,1
+445,France,BMW,Coupe,36986.72,1
+446,Italy,Ford,Hatchback,29760.59,2
+447,Germany,Toyota,Sedan,76110.66,1
+448,France,Ford,Truck,29075.27,4
+449,Germany,Volkswagen,SUV,99752.74,3
+450,South Korea,BMW,Coupe,34676.19,2
+451,Japan,Ford,Hatchback,67531.35,1
+452,USA,Toyota,Convertible,52909.97,4
+453,Japan,Ford,SUV,30110.91,4
+454,France,Mercedes,Sedan,22227.51,1
+455,Germany,Toyota,Hatchback,69818.58,4
+456,Germany,Volkswagen,Van,84540.61,4
+457,Italy,BMW,Van,87361.25,2
+458,Germany,Ford,Truck,58617.08,4
+459,Italy,Toyota,Truck,82196.44,1
+460,South Korea,Mercedes,Sedan,73827.77,2
+461,USA,Toyota,Sedan,77940.36,1
+462,France,Honda,Truck,59407.92,3
+463,Italy,Mercedes,Coupe,70672.94,1
+464,USA,Volkswagen,Coupe,84442.07,1
+465,Germany,BMW,Hatchback,51830.73,2
+466,Germany,Volkswagen,Convertible,84478.31,4
+467,USA,Ford,Hatchback,67361.35,1
+468,Germany,Toyota,Convertible,33272.08,2
+469,South Korea,Honda,Sedan,21974.73,3
+470,South Korea,Mercedes,SUV,49020.29,2
+471,USA,Mercedes,Hatchback,63735.71,2
+472,Italy,Toyota,Hatchback,87185.63,4
+473,Italy,Honda,Convertible,30198.85,1
+474,USA,Toyota,Sedan,84016.51,3
+475,Italy,Ford,Sedan,89040.72,2
+476,Italy,Volkswagen,Van,32055.0,1
+477,South Korea,Mercedes,Convertible,88127.55,1
+478,Italy,Ford,Sedan,99316.29,2
+479,Japan,Volkswagen,Truck,78147.11,1
+480,France,Ford,Coupe,82781.57,2
+481,Germany,Honda,Van,99553.22,2
+482,Japan,Mercedes,Truck,68438.5,2
+483,Italy,Toyota,SUV,44630.91,3
+484,South Korea,Toyota,Hatchback,87002.47,2
+485,USA,Volkswagen,Van,69158.86,4
+486,Italy,BMW,SUV,66495.63,1
+487,South Korea,Honda,Hatchback,40290.84,3
+488,France,Volkswagen,Coupe,80506.74,1
+489,Italy,BMW,Sedan,26533.38,3
+490,USA,Ford,Truck,93942.97,4
+491,South Korea,Honda,Convertible,46065.88,3
+492,South Korea,Ford,Truck,30221.97,3
+493,South Korea,Mercedes,Coupe,55389.32,3
+494,France,Honda,SUV,23397.59,1
+495,Italy,BMW,Convertible,74770.1,2
+496,France,Mercedes,Sedan,92216.44,1
+497,Germany,Toyota,Coupe,86981.04,2
+498,Germany,BMW,Convertible,30189.56,1
+499,Italy,Volkswagen,Coupe,30101.69,4
+500,France,Toyota,Coupe,85074.76,4
+501,USA,Toyota,Sedan,93940.34,3
+502,South Korea,Volkswagen,Van,56853.59,4
+503,South Korea,Honda,Hatchback,59917.69,3
+504,Italy,Toyota,Convertible,45460.96,2
+505,Germany,BMW,Sedan,91541.21,4
+506,Germany,Mercedes,Coupe,71592.23,2
+507,South Korea,Toyota,Sedan,43060.13,1
+508,Italy,BMW,Van,43902.63,2
+509,France,Ford,Hatchback,91296.01,1
+510,Germany,BMW,Truck,21090.72,2
+511,France,Mercedes,Convertible,45818.13,2
+512,Germany,BMW,Hatchback,64348.53,4
+513,Germany,Volkswagen,SUV,31857.4,2
+514,Japan,Mercedes,Convertible,27367.9,4
+515,Germany,Honda,Hatchback,85222.11,4
+516,USA,Ford,Coupe,91552.35,3
+517,Italy,Volkswagen,Convertible,85888.51,3
+518,Italy,Honda,Convertible,91903.03,1
+519,France,BMW,Sedan,64248.96,2
+520,Germany,Mercedes,Coupe,84980.65,1
+521,USA,Ford,SUV,50723.41,2
+522,France,Volkswagen,Truck,73301.43,3
+523,Japan,Honda,Van,99106.84,3
+524,France,Honda,Hatchback,38058.22,2
+525,France,Ford,Sedan,51191.98,2
+526,Germany,BMW,Hatchback,58403.79,3
+527,Japan,Ford,SUV,31041.24,3
+528,France,Honda,SUV,26483.09,1
+529,USA,Toyota,Convertible,86377.83,3
+530,USA,Volkswagen,Van,98143.55,2
+531,Italy,Ford,SUV,52378.01,1
+532,Japan,Honda,Hatchback,27011.99,2
+533,Japan,BMW,Coupe,25264.94,4
+534,Italy,Honda,Coupe,91305.46,1
+535,France,BMW,Convertible,57105.14,2
+536,Japan,Ford,Truck,45602.19,3
+537,USA,BMW,Hatchback,58116.9,4
+538,USA,Mercedes,Hatchback,45464.33,2
+539,Germany,Mercedes,SUV,59122.86,1
+540,Japan,Mercedes,Van,88764.51,2
+541,France,Toyota,Hatchback,67384.11,4
+542,Italy,Ford,Sedan,75572.3,1
+543,Italy,Honda,Truck,49173.65,4
+544,France,Honda,SUV,79080.47,2
+545,South Korea,Toyota,Sedan,73329.37,3
+546,Germany,BMW,Convertible,29564.96,3
+547,Italy,Toyota,Coupe,65811.43,2
+548,Japan,BMW,Convertible,40539.48,2
+549,Germany,BMW,Coupe,84327.65,2
+550,Japan,Volkswagen,Convertible,54075.02,1
+551,USA,Honda,Hatchback,99574.73,4
+552,Germany,Mercedes,Sedan,27400.04,4
+553,Italy,BMW,Coupe,82427.83,4
+554,Germany,Volkswagen,SUV,73896.14,2
+555,Germany,Honda,Sedan,81399.91,4
+556,Germany,Mercedes,SUV,44602.38,2
+557,South Korea,BMW,Sedan,59364.36,1
+558,Germany,BMW,Sedan,83720.68,3
+559,Japan,Toyota,Convertible,38603.31,2
+560,USA,Toyota,Coupe,38082.66,2
+561,France,Honda,Coupe,64084.08,3
+562,Germany,Mercedes,Van,61885.09,3
+563,Italy,BMW,Sedan,42581.0,1
+564,Germany,Honda,Hatchback,43846.05,4
+565,Italy,Honda,Hatchback,42227.61,2
+566,Japan,Ford,SUV,81720.96,4
+567,Italy,Toyota,SUV,72152.07,2
+568,France,Mercedes,Convertible,86593.37,1
+569,USA,BMW,Sedan,98037.84,3
+570,Italy,Honda,SUV,57933.14,1
+571,Italy,BMW,SUV,25335.51,3
+572,USA,Ford,Truck,23847.38,4
+573,France,Mercedes,Sedan,43653.2,4
+574,Germany,Honda,Convertible,94603.57,1
+575,Italy,BMW,SUV,61857.04,3
+576,USA,Toyota,Convertible,41742.92,1
+577,Japan,Ford,Coupe,51933.34,3
+578,USA,Mercedes,Convertible,67887.61,3
+579,Japan,Ford,Hatchback,72235.97,4
+580,France,Toyota,Hatchback,32313.56,4
+581,Germany,Mercedes,Convertible,98162.53,3
+582,USA,Ford,Hatchback,63581.78,3
+583,South Korea,Volkswagen,Coupe,30855.07,3
+584,Italy,Toyota,Sedan,91490.82,4
+585,France,Toyota,Hatchback,25971.07,4
+586,USA,Toyota,Hatchback,92618.83,2
+587,Italy,Volkswagen,Convertible,99725.25,3
+588,USA,Volkswagen,Coupe,76034.54,2
+589,Japan,BMW,Van,81635.78,3
+590,USA,Honda,Van,46984.23,4
+591,South Korea,Ford,Van,95326.15,2
+592,USA,BMW,Van,62377.12,2
+593,USA,Ford,Sedan,78591.08,1
+594,South Korea,Honda,Convertible,93928.62,3
+595,France,Volkswagen,Convertible,98014.4,4
+596,USA,Honda,Truck,86656.35,1
+597,South Korea,Volkswagen,Coupe,44241.4,1
+598,Italy,Honda,Van,97323.8,3
+599,Japan,BMW,Sedan,70249.56,1
+600,Japan,Mercedes,Coupe,94451.4,3
+601,USA,BMW,Van,74088.4,1
+602,France,Ford,Sedan,44579.12,3
+603,France,BMW,Coupe,49601.96,4
+604,Italy,Toyota,Convertible,64037.74,3
+605,USA,Ford,Convertible,83201.19,3
+606,Japan,Honda,SUV,45438.6,2
+607,France,Ford,Hatchback,66378.49,4
+608,USA,Mercedes,Van,47650.0,4
+609,France,Volkswagen,Truck,85261.55,4
+610,South Korea,Honda,Coupe,57338.25,1
+611,France,Ford,Truck,26137.83,2
+612,Japan,Honda,SUV,33284.2,4
+613,Germany,Honda,Hatchback,24888.37,1
+614,Italy,Honda,Coupe,59944.24,1
+615,Italy,Volkswagen,Sedan,28506.98,1
+616,Japan,BMW,Van,29131.2,2
+617,France,Honda,Hatchback,95283.86,1
+618,USA,Toyota,Convertible,89812.41,2
+619,France,Mercedes,SUV,56166.93,3
+620,Japan,Volkswagen,Hatchback,98864.43,1
+621,Italy,Ford,Van,20014.92,4
+622,France,Volkswagen,Hatchback,69118.36,1
+623,Italy,Ford,Van,69314.25,3
+624,USA,Volkswagen,Convertible,56595.44,3
+625,Italy,Ford,Coupe,51755.84,1
+626,Italy,Honda,Sedan,56430.65,3
+627,Germany,BMW,Convertible,53196.83,2
+628,Germany,Ford,Sedan,78439.4,2
+629,South Korea,Ford,Coupe,30828.43,1
+630,Germany,Toyota,Hatchback,35811.14,2
+631,Italy,Ford,Sedan,34441.46,2
+632,Japan,Toyota,SUV,40997.65,4
+633,Italy,Mercedes,SUV,62020.67,1
+634,Japan,Honda,Van,28896.7,3
+635,Japan,Toyota,Convertible,89453.54,1
+636,Germany,BMW,Coupe,43788.92,2
+637,France,Honda,Van,33003.04,4
+638,USA,Toyota,Convertible,74049.7,1
+639,Germany,Honda,Convertible,23046.9,1
+640,Germany,Honda,Van,69597.49,2
+641,France,Honda,Truck,75855.87,2
+642,USA,Mercedes,Convertible,37193.32,1
+643,Italy,BMW,Truck,23357.13,2
+644,South Korea,Volkswagen,SUV,49091.63,2
+645,South Korea,Volkswagen,SUV,27887.54,2
+646,Italy,Toyota,Convertible,29318.23,2
+647,Germany,Honda,SUV,40340.9,2
+648,USA,Toyota,Coupe,43637.43,4
+649,Germany,Mercedes,Truck,62397.63,2
+650,Japan,Mercedes,Truck,74271.35,3
+651,Germany,Ford,Convertible,67421.68,1
+652,Germany,Mercedes,SUV,31868.83,4
+653,Italy,Ford,Sedan,33766.88,4
+654,Italy,BMW,Van,90301.54,2
+655,Italy,Toyota,Van,64668.19,1
+656,South Korea,BMW,Truck,89595.03,3
+657,Japan,Mercedes,Convertible,49723.72,2
+658,Italy,BMW,Convertible,69152.0,1
+659,USA,BMW,Coupe,61893.07,2
+660,South Korea,BMW,Hatchback,45529.88,2
+661,France,Mercedes,Hatchback,57593.23,2
+662,USA,Honda,Truck,60199.27,2
+663,USA,BMW,Van,36061.68,2
+664,Italy,Ford,Coupe,45200.83,2
+665,France,Mercedes,Coupe,83312.78,2
+666,France,BMW,Coupe,93263.06,3
+667,South Korea,Honda,Truck,48783.53,4
+668,France,Mercedes,Hatchback,44557.78,3
+669,Japan,Volkswagen,Van,35615.77,2
+670,Italy,Honda,Coupe,74279.29,2
+671,France,Ford,Van,45847.98,3
+672,South Korea,BMW,SUV,99019.96,3
+673,Japan,Volkswagen,Convertible,46054.78,4
+674,Germany,Volkswagen,Convertible,51530.88,3
+675,Germany,Mercedes,Van,68266.74,4
+676,Japan,Volkswagen,Sedan,84134.74,2
+677,South Korea,Ford,Sedan,57561.49,1
+678,Japan,Ford,Truck,53812.48,1
+679,Italy,Toyota,Truck,99651.03,1
+680,Italy,Ford,Convertible,20839.49,1
+681,Germany,Honda,SUV,91605.22,2
+682,France,Volkswagen,Hatchback,31931.27,1
+683,South Korea,Ford,Hatchback,82874.02,3
+684,Germany,Mercedes,Truck,69434.52,3
+685,France,Toyota,SUV,47347.78,1
+686,France,Volkswagen,Truck,89910.0,3
+687,Italy,Toyota,Hatchback,21032.58,4
+688,USA,Volkswagen,Van,38135.25,2
+689,USA,Mercedes,Truck,65351.42,1
+690,Japan,Toyota,Coupe,48123.38,1
+691,Italy,BMW,Van,68830.2,2
+692,France,Honda,Truck,21928.82,3
+693,South Korea,Honda,Convertible,29316.71,2
+694,USA,Volkswagen,Truck,30167.7,2
+695,France,BMW,Convertible,35142.69,3
+696,USA,Toyota,SUV,56746.52,2
+697,USA,BMW,Hatchback,80170.3,3
+698,USA,BMW,Van,92443.11,3
+699,South Korea,Toyota,Van,86829.8,2
+700,Italy,Mercedes,Sedan,35751.03,4
+701,South Korea,BMW,Sedan,55292.04,3
+702,Germany,BMW,Hatchback,35952.93,2
+703,France,Mercedes,Sedan,41157.75,3
+704,Italy,BMW,Van,60283.76,4
+705,Italy,BMW,Truck,25448.72,4
+706,Italy,BMW,SUV,37453.95,1
+707,Italy,Honda,SUV,94830.25,3
+708,South Korea,Ford,Hatchback,57289.3,3
+709,Italy,Mercedes,Sedan,55630.92,2
+710,Japan,BMW,Truck,21165.37,3
+711,France,Honda,SUV,39791.98,1
+712,Italy,Mercedes,SUV,89303.39,4
+713,France,Volkswagen,Coupe,33170.27,4
+714,Japan,Volkswagen,Coupe,53210.0,1
+715,Japan,BMW,Van,21146.47,3
+716,France,Honda,SUV,58266.84,3
+717,USA,Honda,Hatchback,21681.69,1
+718,Germany,Mercedes,Convertible,85568.76,2
+719,USA,Mercedes,Convertible,85988.3,4
+720,USA,Honda,Truck,83019.38,1
+721,South Korea,Mercedes,SUV,42669.13,1
+722,USA,Honda,SUV,86978.98,3
+723,Italy,Ford,Van,63439.85,4
+724,South Korea,Honda,SUV,49904.65,3
+725,South Korea,Volkswagen,Hatchback,70026.4,1
+726,Japan,Mercedes,Coupe,20987.28,2
+727,USA,Honda,SUV,31436.87,4
+728,Japan,Honda,SUV,79383.48,1
+729,France,Mercedes,Van,39532.93,1
+730,Germany,Ford,Sedan,67840.73,2
+731,South Korea,Ford,Van,50808.21,1
+732,France,Mercedes,Van,88384.46,1
+733,France,Toyota,Hatchback,96193.22,4
+734,Italy,Mercedes,Truck,90685.18,4
+735,Germany,Mercedes,SUV,41649.6,4
+736,France,Ford,Van,35533.03,3
+737,France,Ford,Van,57954.79,2
+738,Germany,Mercedes,Sedan,20586.73,4
+739,Germany,Mercedes,Van,22064.75,3
+740,France,Mercedes,Convertible,64263.25,3
+741,Germany,Ford,Truck,61635.95,2
+742,France,Mercedes,SUV,99566.56,2
+743,France,Mercedes,SUV,36147.35,1
+744,Italy,BMW,Sedan,40648.31,3
+745,USA,Toyota,Hatchback,29083.25,4
+746,France,Volkswagen,SUV,93403.44,2
+747,Japan,Toyota,Convertible,82224.9,3
+748,South Korea,BMW,SUV,85787.13,4
+749,USA,Volkswagen,Convertible,92221.1,3
+750,USA,Mercedes,Truck,61992.0,2
+751,USA,BMW,Truck,56095.46,1
+752,Italy,Mercedes,Coupe,46431.32,3
+753,France,Ford,Coupe,67137.17,4
+754,Italy,Honda,Convertible,56342.27,2
+755,France,BMW,Hatchback,56125.25,1
+756,Italy,Ford,SUV,94954.23,4
+757,Italy,BMW,Van,98722.52,4
+758,South Korea,BMW,SUV,83718.75,4
+759,Japan,Ford,Coupe,80540.65,3
+760,Italy,Volkswagen,Van,74444.65,2
+761,South Korea,Toyota,Convertible,33285.99,4
+762,Germany,Mercedes,Van,24728.47,3
+763,Japan,BMW,SUV,75258.11,2
+764,Italy,Mercedes,SUV,78302.9,2
+765,USA,Honda,Hatchback,23757.84,3
+766,Germany,Ford,Sedan,94244.14,3
+767,Germany,Mercedes,Van,27291.25,4
+768,South Korea,Ford,Coupe,42872.04,2
+769,Germany,Mercedes,Coupe,73791.19,1
+770,Japan,Toyota,Sedan,33589.81,3
+771,Italy,Toyota,SUV,24433.27,2
+772,Italy,Toyota,Hatchback,46491.72,2
+773,USA,Toyota,Hatchback,81277.73,4
+774,South Korea,Toyota,Coupe,53094.29,1
+775,USA,Toyota,Hatchback,72237.83,4
+776,Germany,Ford,Truck,66369.53,1
+777,USA,BMW,Sedan,21777.48,1
+778,Japan,Mercedes,SUV,99083.2,3
+779,Italy,Toyota,Truck,23314.25,2
+780,Germany,Ford,Sedan,97424.22,2
+781,USA,Ford,Convertible,63989.13,2
+782,South Korea,Ford,Van,97052.72,1
+783,Japan,BMW,Coupe,29180.29,2
+784,Japan,Mercedes,Hatchback,59232.68,3
+785,USA,BMW,Convertible,33560.33,1
+786,Italy,Volkswagen,Hatchback,24077.99,1
+787,USA,Ford,Truck,69402.33,1
+788,Germany,Volkswagen,SUV,36622.67,1
+789,USA,Honda,SUV,67015.76,3
+790,Japan,Toyota,SUV,28989.16,2
+791,USA,Toyota,Hatchback,46558.92,3
+792,Italy,BMW,Convertible,82530.6,2
+793,South Korea,Mercedes,SUV,54964.12,3
+794,France,Volkswagen,Convertible,70219.63,4
+795,USA,Mercedes,Hatchback,71796.64,4
+796,Italy,BMW,Truck,87500.4,4
+797,Italy,Toyota,Convertible,45993.82,4
+798,South Korea,Mercedes,Truck,74983.65,1
+799,Japan,Mercedes,Hatchback,96929.26,1
+800,Italy,Toyota,Hatchback,78419.47,3
+801,Italy,Volkswagen,Coupe,59189.64,3
+802,Italy,Toyota,Hatchback,70457.4,4
+803,Italy,Mercedes,Hatchback,79174.63,2
+804,Germany,Volkswagen,Sedan,68982.06,4
+805,Germany,Volkswagen,SUV,21334.07,3
+806,Japan,Toyota,Coupe,35581.88,4
+807,USA,Mercedes,Van,84837.46,3
+808,Italy,BMW,Coupe,41812.05,4
+809,South Korea,Mercedes,Coupe,78524.97,2
+810,USA,Ford,Van,49769.62,4
+811,South Korea,Honda,Sedan,61750.75,2
+812,USA,BMW,Truck,25437.86,2
+813,Japan,Volkswagen,Hatchback,34498.04,3
+814,Italy,BMW,SUV,96575.76,2
+815,Italy,Volkswagen,Convertible,91211.04,1
+816,France,Volkswagen,Van,72182.01,1
+817,South Korea,BMW,Truck,56771.57,1
+818,USA,Volkswagen,Van,74060.9,3
+819,USA,Volkswagen,Hatchback,69488.82,1
+820,Germany,Ford,Sedan,65484.18,3
+821,France,Mercedes,Van,24734.17,3
+822,Germany,Mercedes,Hatchback,70624.21,1
+823,Germany,Honda,Hatchback,81513.6,2
+824,Germany,Honda,Sedan,99526.53,4
+825,South Korea,Ford,Coupe,20886.28,3
+826,South Korea,Honda,Coupe,78413.88,1
+827,Japan,BMW,SUV,65743.15,3
+828,Japan,Toyota,SUV,54724.17,2
+829,Germany,Toyota,Coupe,30205.61,2
+830,France,Toyota,Truck,52726.81,1
+831,USA,Ford,Convertible,48350.17,3
+832,South Korea,Ford,Hatchback,44226.39,4
+833,France,Volkswagen,Convertible,78470.37,4
+834,Italy,Toyota,Hatchback,76058.04,3
+835,South Korea,BMW,Coupe,67121.61,3
+836,South Korea,Honda,SUV,95093.19,3
+837,Japan,BMW,Truck,47988.35,1
+838,USA,Honda,SUV,39504.16,2
+839,USA,Toyota,Convertible,72472.27,4
+840,Italy,Toyota,SUV,35905.12,1
+841,Italy,Toyota,Coupe,45200.84,3
+842,South Korea,Ford,Truck,37968.2,3
+843,Germany,Honda,Convertible,25532.29,2
+844,Japan,Ford,Truck,86199.9,3
+845,Japan,Ford,Hatchback,40363.24,1
+846,South Korea,Mercedes,SUV,57842.2,1
+847,France,BMW,Truck,23465.22,2
+848,Germany,BMW,Sedan,75947.16,1
+849,South Korea,Volkswagen,SUV,46444.88,4
+850,Germany,Ford,Hatchback,79578.94,1
+851,Germany,Honda,Truck,52992.24,1
+852,Germany,Mercedes,Convertible,35660.45,1
+853,South Korea,Mercedes,Hatchback,61054.01,4
+854,Japan,BMW,Sedan,30440.36,3
+855,Japan,Ford,Truck,55243.13,1
+856,Germany,Volkswagen,Van,45384.44,2
+857,France,Ford,Van,92956.77,4
+858,USA,Toyota,Coupe,24874.3,2
+859,South Korea,Ford,SUV,75521.39,1
+860,USA,Toyota,Convertible,34620.09,2
+861,France,Toyota,Coupe,45523.61,1
+862,South Korea,Volkswagen,Truck,53241.13,4
+863,Germany,Honda,Van,92641.21,2
+864,Japan,BMW,Van,39406.26,2
+865,USA,Ford,Van,27304.7,1
+866,Italy,Toyota,Truck,45495.17,1
+867,Italy,Ford,Van,28374.08,3
+868,France,Honda,Hatchback,30287.72,1
+869,Germany,BMW,Truck,65908.05,1
+870,USA,Honda,Convertible,24872.15,3
+871,Germany,BMW,Coupe,22474.47,1
+872,USA,Mercedes,Convertible,77153.13,1
+873,France,BMW,Sedan,48931.77,3
+874,France,Volkswagen,Van,30030.03,4
+875,Italy,Honda,Sedan,40289.02,4
+876,Germany,Toyota,SUV,71366.92,1
+877,South Korea,Mercedes,SUV,42042.93,1
+878,Italy,Volkswagen,Sedan,59561.69,3
+879,Germany,Ford,Truck,29735.62,3
+880,Italy,Honda,Convertible,67047.49,4
+881,South Korea,Toyota,Sedan,45286.21,2
+882,Japan,BMW,SUV,70157.47,1
+883,Japan,Toyota,Sedan,84671.59,2
+884,Japan,Ford,Truck,68931.71,2
+885,Japan,Mercedes,Sedan,43659.81,3
+886,USA,Mercedes,Convertible,40459.5,1
+887,Japan,Honda,Coupe,46193.68,1
+888,South Korea,Mercedes,Truck,33169.64,3
+889,France,Honda,SUV,34493.75,2
+890,France,Honda,Convertible,83255.29,3
+891,USA,Honda,Sedan,50778.61,4
+892,Japan,BMW,Sedan,54879.61,1
+893,Japan,Volkswagen,Coupe,67523.96,4
+894,Japan,Honda,SUV,67172.28,3
+895,Italy,Honda,SUV,25390.15,1
+896,Germany,Volkswagen,Hatchback,86523.26,4
+897,Italy,Toyota,SUV,34186.12,4
+898,Germany,Honda,Coupe,77845.73,2
+899,Japan,BMW,Van,81813.68,1
+900,Japan,Mercedes,Hatchback,77191.96,4
+901,Italy,Mercedes,Hatchback,66318.21,4
+902,Italy,Ford,Sedan,21168.72,2
+903,Germany,Ford,Sedan,48830.04,4
+904,France,Mercedes,SUV,68387.15,4
+905,Germany,Mercedes,Hatchback,50996.1,4
+906,Italy,BMW,Sedan,89078.39,2
+907,South Korea,Volkswagen,Coupe,44704.18,4
+908,Italy,Ford,Sedan,43482.78,4
+909,South Korea,Volkswagen,Truck,41279.82,1
+910,USA,BMW,Truck,46622.47,1
+911,Italy,Mercedes,Sedan,64592.4,2
+912,USA,Honda,Hatchback,76561.22,3
+913,France,Volkswagen,Van,73005.43,1
+914,Germany,Mercedes,Van,84617.43,2
+915,South Korea,Mercedes,Hatchback,90873.12,4
+916,Germany,Toyota,Convertible,85286.32,4
+917,USA,Volkswagen,Van,21515.63,2
+918,South Korea,Honda,Truck,78873.44,4
+919,Germany,Volkswagen,Coupe,36671.97,4
+920,Italy,Mercedes,Hatchback,30634.24,3
+921,Japan,Honda,SUV,71079.1,4
+922,USA,BMW,Truck,45579.46,1
+923,Germany,Toyota,Coupe,24569.37,4
+924,USA,Mercedes,Coupe,31010.38,2
+925,USA,Ford,Hatchback,20074.35,3
+926,South Korea,Ford,Coupe,92257.89,4
+927,South Korea,Toyota,Hatchback,21969.44,2
+928,Japan,BMW,Van,36756.46,1
+929,Italy,Mercedes,Sedan,53301.02,4
+930,USA,Volkswagen,Truck,48525.71,3
+931,Germany,Toyota,Convertible,92938.07,4
+932,France,BMW,Sedan,23223.12,2
+933,USA,Volkswagen,Truck,60977.18,3
+934,USA,Ford,Hatchback,74438.36,4
+935,Japan,Ford,Truck,94535.84,1
+936,Italy,Volkswagen,Van,69629.7,3
+937,France,Toyota,Hatchback,84300.42,1
+938,South Korea,Ford,Sedan,26698.0,2
+939,South Korea,Mercedes,SUV,50875.16,4
+940,Germany,Honda,SUV,49915.77,1
+941,France,Volkswagen,Truck,90903.06,2
+942,South Korea,Volkswagen,SUV,32109.69,4
+943,Germany,Ford,Hatchback,32150.89,2
+944,Italy,Toyota,Coupe,46284.65,1
+945,Germany,Mercedes,Hatchback,24357.28,2
+946,South Korea,Toyota,Coupe,34596.64,3
+947,Japan,BMW,Sedan,97216.77,4
+948,Japan,BMW,Convertible,54254.72,2
+949,Japan,Honda,Coupe,70561.54,1
+950,South Korea,Ford,SUV,78088.9,4
+951,Japan,Ford,Hatchback,49356.91,3
+952,France,Ford,Sedan,31778.17,4
+953,Italy,Honda,SUV,36526.48,3
+954,Germany,BMW,Sedan,45061.32,4
+955,Germany,Toyota,Convertible,70885.47,2
+956,South Korea,Honda,Van,51862.44,2
+957,Japan,Honda,Hatchback,20545.18,1
+958,Japan,Toyota,Truck,61872.57,3
+959,USA,Ford,Hatchback,93721.07,1
+960,Italy,Mercedes,Convertible,84966.21,2
+961,France,Toyota,Hatchback,86016.91,3
+962,Germany,BMW,Truck,83604.64,1
+963,USA,Volkswagen,Coupe,45898.47,1
+964,USA,Volkswagen,Sedan,81215.51,1
+965,South Korea,Honda,Truck,31452.91,1
+966,Germany,Volkswagen,SUV,72617.29,1
+967,South Korea,Mercedes,Convertible,71325.49,3
+968,France,Ford,Coupe,22045.58,1
+969,USA,BMW,SUV,83037.61,3
+970,USA,Mercedes,SUV,92259.85,1
+971,Italy,BMW,Convertible,41393.22,2
+972,France,BMW,Coupe,84991.26,2
+973,USA,Ford,Van,26592.48,1
+974,France,Honda,SUV,67997.43,4
+975,Germany,Volkswagen,SUV,58851.75,2
+976,Japan,Ford,Coupe,63673.88,3
+977,USA,Mercedes,Hatchback,94096.42,1
+978,Italy,Honda,SUV,89705.22,3
+979,Germany,Mercedes,Sedan,82806.69,4
+980,France,Honda,Coupe,41895.88,1
+981,South Korea,Mercedes,SUV,92945.49,2
+982,Germany,Ford,Convertible,27800.62,3
+983,USA,Honda,Truck,88266.34,2
+984,France,Honda,Sedan,46252.81,2
+985,Japan,BMW,Truck,24301.78,1
+986,Germany,BMW,Truck,73548.56,3
+987,USA,Toyota,SUV,38502.39,4
+988,Italy,Mercedes,Sedan,39485.69,2
+989,South Korea,BMW,Sedan,44483.77,1
+990,France,Toyota,Hatchback,25094.78,1
+991,Germany,BMW,Truck,34170.17,4
+992,Germany,Mercedes,Sedan,20411.17,1
+993,Japan,Honda,Hatchback,55632.76,2
+994,Japan,Volkswagen,Coupe,26740.43,1
+995,Italy,Mercedes,Hatchback,74612.21,3
+996,South Korea,Ford,Convertible,38849.83,3
+997,Italy,BMW,Van,95485.93,2
+998,USA,BMW,SUV,89700.13,3
+999,USA,Honda,Coupe,43155.27,4
+1000,Italy,Ford,Van,82657.24,1
+1001,South Korea,Honda,Van,84259.59,2
+1002,Italy,Ford,Coupe,98925.05,4
+1003,South Korea,Volkswagen,Convertible,67827.2,1
+1004,South Korea,BMW,Hatchback,26557.26,4
+1005,France,BMW,SUV,71746.98,2
+1006,South Korea,Volkswagen,Hatchback,69998.38,2
+1007,Japan,Toyota,Sedan,71068.05,4
+1008,South Korea,Honda,Hatchback,44571.65,1
+1009,South Korea,Volkswagen,Coupe,88774.37,3
+1010,South Korea,Honda,SUV,96757.77,3
+1011,USA,Mercedes,Hatchback,37417.0,4
+1012,Japan,BMW,SUV,27052.17,2
+1013,Japan,Honda,SUV,35562.8,1
+1014,Italy,Ford,Sedan,85644.17,1
+1015,France,Honda,Sedan,74131.57,2
+1016,South Korea,Mercedes,Coupe,70883.79,3
+1017,Germany,BMW,Convertible,52143.45,1
+1018,France,Volkswagen,Van,66226.24,4
+1019,France,Mercedes,SUV,44629.93,3
+1020,Japan,BMW,Convertible,58176.01,4
+1021,France,Honda,Van,83445.04,3
+1022,South Korea,Toyota,Van,98499.33,2
+1023,South Korea,Toyota,Coupe,94599.11,4
+1024,USA,Ford,Van,94709.28,4
+1025,South Korea,BMW,Van,52177.9,2
+1026,South Korea,Toyota,SUV,57503.19,4
+1027,Japan,Volkswagen,SUV,76450.83,3
+1028,South Korea,BMW,Truck,93775.35,1
+1029,USA,Volkswagen,Convertible,31359.54,1
+1030,Germany,Volkswagen,Hatchback,44339.35,2
+1031,Japan,Toyota,Sedan,31139.75,3
+1032,Germany,BMW,Hatchback,68960.68,4
+1033,Japan,Honda,Convertible,44504.08,4
+1034,Italy,Mercedes,Sedan,46088.63,1
+1035,France,Toyota,Hatchback,25673.28,4
+1036,Italy,Toyota,Truck,47983.68,1
+1037,South Korea,Honda,Sedan,88999.72,2
+1038,Germany,BMW,SUV,38645.82,4
+1039,South Korea,BMW,Hatchback,75615.0,3
+1040,France,Volkswagen,Sedan,70370.27,4
+1041,Japan,Honda,Truck,89078.77,1
+1042,France,Honda,Van,30583.04,2
+1043,USA,BMW,Sedan,98207.2,1
+1044,France,Volkswagen,Sedan,66610.29,4
+1045,USA,Toyota,Truck,99637.93,1
+1046,France,Ford,Van,92921.18,1
+1047,USA,Mercedes,Hatchback,37721.38,2
+1048,Germany,Toyota,Coupe,24492.96,3
+1049,South Korea,BMW,Hatchback,40451.13,4
+1050,South Korea,Mercedes,Van,62205.09,2
+1051,Italy,Ford,Convertible,33727.71,3
+1052,South Korea,Ford,Truck,33396.78,1
+1053,Japan,Volkswagen,Hatchback,57007.48,3
+1054,France,Mercedes,Sedan,22661.44,1
+1055,Italy,Volkswagen,Truck,29751.05,1
+1056,Japan,Toyota,SUV,53268.91,2
+1057,Japan,Honda,Van,25050.39,1
+1058,USA,Honda,Hatchback,51740.4,2
+1059,South Korea,Honda,Truck,57920.5,3
+1060,Germany,Mercedes,Hatchback,56101.33,3
+1061,Germany,Honda,Truck,89533.99,1
+1062,Italy,Toyota,Sedan,62405.0,2
+1063,Germany,Volkswagen,SUV,57438.44,1
+1064,France,Mercedes,SUV,52856.74,2
+1065,Germany,Volkswagen,Convertible,85409.87,2
+1066,Italy,Mercedes,Truck,91604.53,2
+1067,Germany,Volkswagen,Hatchback,88259.4,3
+1068,France,Ford,SUV,73883.73,2
+1069,USA,Volkswagen,Van,30988.94,3
+1070,Italy,Honda,SUV,42149.6,2
+1071,USA,Ford,Coupe,23685.05,3
+1072,USA,Volkswagen,Coupe,94465.93,4
+1073,USA,Mercedes,SUV,72863.88,3
+1074,Japan,Mercedes,Truck,79709.03,3
+1075,South Korea,Mercedes,Convertible,44925.74,1
+1076,Japan,BMW,SUV,87652.28,2
+1077,South Korea,Toyota,Sedan,40768.26,4
+1078,USA,Mercedes,Hatchback,20131.5,1
+1079,Italy,Ford,Convertible,50113.2,2
+1080,South Korea,Mercedes,Sedan,65660.92,4
+1081,France,BMW,Convertible,58296.39,4
+1082,France,Honda,Sedan,88966.09,4
+1083,Germany,Ford,Hatchback,28432.42,2
+1084,South Korea,BMW,Hatchback,64305.88,4
+1085,Italy,Honda,Coupe,61038.35,4
+1086,Japan,Ford,Truck,42511.44,1
+1087,USA,Volkswagen,Sedan,85778.25,3
+1088,Germany,Toyota,Coupe,80227.89,2
+1089,France,Toyota,Sedan,78628.73,3
+1090,Japan,BMW,Coupe,90095.4,1
+1091,Japan,Honda,Hatchback,77822.77,3
+1092,USA,Toyota,Convertible,38547.3,4
+1093,South Korea,Honda,Van,76445.02,4
+1094,France,Honda,Coupe,44616.23,2
+1095,Italy,BMW,Sedan,39373.97,2
+1096,Japan,BMW,Sedan,25840.29,2
+1097,USA,BMW,Van,79522.29,1
+1098,Italy,Toyota,Truck,76880.08,2
+1099,South Korea,BMW,Hatchback,38759.96,1
+1100,France,Toyota,Sedan,79950.32,4
+1101,South Korea,BMW,SUV,93427.27,3
+1102,Japan,Mercedes,Convertible,28642.32,4
+1103,Italy,Honda,Coupe,38610.93,4
+1104,Italy,BMW,Truck,80020.86,4
+1105,Italy,Ford,Van,41960.53,2
+1106,Japan,Honda,Convertible,69973.12,2
+1107,Japan,Honda,Hatchback,26493.14,2
+1108,South Korea,BMW,Truck,56176.2,3
+1109,Germany,Volkswagen,Coupe,79127.31,2
+1110,South Korea,BMW,Coupe,74921.12,1
+1111,France,Honda,Van,85205.77,4
+1112,USA,Ford,SUV,90196.17,3
+1113,Italy,Honda,Van,81854.68,3
+1114,Germany,Ford,Hatchback,73727.02,3
+1115,USA,Toyota,Truck,22537.8,3
+1116,Germany,Mercedes,Truck,62797.33,3
+1117,South Korea,Honda,Sedan,23015.82,1
+1118,Japan,BMW,SUV,84645.43,4
+1119,Italy,Toyota,SUV,45657.96,3
+1120,South Korea,Mercedes,Truck,64994.35,4
+1121,USA,BMW,Truck,42355.62,2
+1122,USA,Volkswagen,Convertible,82600.01,3
+1123,USA,BMW,Convertible,90920.2,3
+1124,USA,Ford,Convertible,51891.4,4
+1125,USA,Ford,SUV,89033.79,3
+1126,Germany,Volkswagen,Sedan,41366.0,3
+1127,South Korea,Toyota,Coupe,62772.87,3
+1128,Italy,Mercedes,Convertible,88700.91,1
+1129,Japan,BMW,Sedan,46070.51,1
+1130,Japan,Ford,Van,96323.38,3
+1131,South Korea,Toyota,Hatchback,29750.36,1
+1132,South Korea,Volkswagen,Convertible,21462.01,2
+1133,Japan,Honda,Van,92330.83,3
+1134,Japan,Ford,Coupe,25491.89,2
+1135,Germany,Volkswagen,Hatchback,99351.14,4
+1136,France,BMW,Hatchback,96111.75,2
+1137,Italy,Mercedes,Coupe,30961.67,4
+1138,USA,Ford,Convertible,63006.77,3
+1139,France,Ford,SUV,34793.62,4
+1140,South Korea,BMW,Coupe,54252.41,4
+1141,Japan,Honda,Coupe,24914.01,2
+1142,France,Toyota,Coupe,37913.97,2
+1143,Italy,Mercedes,Hatchback,49061.82,2
+1144,South Korea,Ford,Sedan,55091.8,3
+1145,USA,Mercedes,Van,98199.7,3
+1146,USA,Ford,SUV,84629.25,2
+1147,Italy,Mercedes,Convertible,78992.8,3
+1148,Italy,Volkswagen,Convertible,62963.31,3
+1149,Japan,Ford,Van,87199.82,4
+1150,USA,Mercedes,Sedan,47145.83,4
+1151,South Korea,Toyota,Coupe,76711.93,2
+1152,France,Volkswagen,SUV,99502.72,3
+1153,South Korea,Volkswagen,Convertible,45170.31,4
+1154,Germany,Toyota,Van,73921.4,1
+1155,Germany,Mercedes,Truck,87545.19,3
+1156,Italy,BMW,Van,93264.61,1
+1157,Japan,Toyota,Convertible,77434.62,2
+1158,Germany,Mercedes,Coupe,42688.63,3
+1159,USA,Toyota,Truck,46102.57,2
+1160,South Korea,Toyota,Sedan,21660.64,2
+1161,South Korea,Ford,SUV,80870.88,2
+1162,Italy,Mercedes,Sedan,23419.17,2
+1163,France,BMW,Sedan,89172.19,2
+1164,Italy,Ford,Van,29492.85,3
+1165,France,Toyota,SUV,33750.12,1
+1166,Italy,Honda,SUV,58122.12,3
+1167,Italy,Toyota,Convertible,79030.43,3
+1168,Italy,Toyota,Convertible,31120.18,3
+1169,France,Mercedes,SUV,55205.69,4
+1170,France,Mercedes,Truck,58628.1,4
+1171,Italy,Ford,Hatchback,36982.85,3
+1172,Germany,BMW,Convertible,29244.67,1
+1173,Japan,Ford,Hatchback,86913.67,3
+1174,Japan,Volkswagen,Van,60197.25,2
+1175,Japan,Toyota,Truck,21150.5,4
+1176,France,Honda,SUV,84238.5,4
+1177,France,Toyota,Truck,98463.5,3
+1178,Germany,Toyota,Convertible,68474.1,3
+1179,Japan,Ford,Sedan,60296.67,1
+1180,Japan,Honda,Van,90273.27,1
+1181,Italy,Honda,SUV,96201.34,2
+1182,France,Honda,Coupe,80362.95,3
+1183,Japan,Ford,Van,55636.23,3
+1184,South Korea,Toyota,Hatchback,67377.71,3
+1185,Germany,Ford,Truck,76074.83,4
+1186,South Korea,Mercedes,SUV,35541.89,2
+1187,South Korea,Mercedes,Van,55776.08,1
+1188,Germany,Ford,Truck,86385.7,4
+1189,South Korea,Honda,SUV,72378.03,4
+1190,Japan,Toyota,Convertible,52896.33,4
+1191,France,Ford,Van,73069.0,4
+1192,Germany,Ford,Convertible,29457.79,2
+1193,Italy,Ford,Van,52119.81,3
+1194,South Korea,Volkswagen,Convertible,83450.28,1
+1195,Germany,Mercedes,Truck,37640.7,1
+1196,USA,Honda,Coupe,34876.92,4
+1197,USA,BMW,Van,96065.49,4
+1198,France,Honda,Van,36791.81,2
+1199,Japan,BMW,Convertible,40873.49,4
+1200,France,Volkswagen,SUV,97569.28,1
+1201,France,Ford,Van,78776.69,1
+1202,France,Volkswagen,Convertible,75967.72,3
+1203,France,Volkswagen,Sedan,88234.11,3
+1204,Italy,Toyota,Convertible,29265.85,1
+1205,Italy,Mercedes,Truck,76476.5,1
+1206,Germany,BMW,Coupe,60295.09,2
+1207,USA,Ford,Sedan,86332.05,2
+1208,France,BMW,Truck,60651.34,1
+1209,Germany,Honda,Truck,69619.31,4
+1210,USA,BMW,Truck,58219.37,3
+1211,South Korea,Honda,SUV,58252.71,1
+1212,Japan,Mercedes,Truck,81437.6,4
+1213,Italy,Honda,SUV,70285.31,1
+1214,South Korea,BMW,Truck,70661.06,3
+1215,USA,BMW,Hatchback,56022.6,3
+1216,South Korea,Honda,Sedan,62488.76,2
+1217,Japan,Volkswagen,Hatchback,79657.41,2
+1218,USA,Mercedes,Truck,86075.27,2
+1219,South Korea,Toyota,Sedan,75724.91,2
+1220,Italy,Ford,Sedan,93925.84,3
+1221,Italy,BMW,Van,85625.93,4
+1222,Germany,Ford,Coupe,64949.1,4
+1223,South Korea,Toyota,Hatchback,73712.49,4
+1224,France,Ford,Coupe,94104.66,1
+1225,South Korea,Toyota,Sedan,69533.44,2
+1226,USA,Honda,SUV,85984.56,2
+1227,USA,Volkswagen,Sedan,75104.84,3
+1228,South Korea,BMW,Coupe,64154.91,3
+1229,Japan,Toyota,Hatchback,39347.06,1
+1230,Italy,Ford,Truck,54079.8,1
+1231,USA,BMW,Van,97419.43,4
+1232,Italy,Volkswagen,Van,72621.23,3
+1233,USA,Honda,Van,65151.63,2
+1234,Germany,BMW,Truck,94636.53,4
+1235,France,Toyota,Van,66920.94,2
+1236,USA,Volkswagen,Hatchback,62086.6,4
+1237,Italy,Ford,Truck,80744.87,2
+1238,Germany,Volkswagen,Van,77013.25,1
+1239,USA,Volkswagen,Truck,35452.8,4
+1240,Japan,Mercedes,Coupe,57704.66,2
+1241,France,Volkswagen,Hatchback,57801.24,2
+1242,USA,Volkswagen,Convertible,50257.96,3
+1243,Germany,BMW,SUV,61383.48,4
+1244,Japan,Ford,Van,53048.59,2
+1245,South Korea,BMW,SUV,35947.64,3
+1246,Germany,BMW,Truck,52989.32,2
+1247,Germany,Toyota,SUV,25782.16,4
+1248,Japan,BMW,Hatchback,66062.87,1
+1249,Germany,Mercedes,Hatchback,88292.36,4
+1250,Japan,Mercedes,Sedan,78022.97,4
+1251,USA,Toyota,Van,48831.52,2
+1252,Japan,Honda,Sedan,26965.7,2
+1253,Japan,Ford,SUV,36171.95,4
+1254,France,Ford,Convertible,63639.23,3
+1255,Japan,BMW,Sedan,36564.57,3
+1256,Japan,BMW,Sedan,63517.85,3
+1257,South Korea,Honda,Hatchback,38527.92,2
+1258,USA,BMW,Convertible,87913.91,2
+1259,France,Ford,Truck,51781.72,4
+1260,South Korea,Volkswagen,SUV,39644.05,1
+1261,Italy,Mercedes,Sedan,84986.09,2
+1262,USA,Volkswagen,Convertible,47427.12,4
+1263,USA,Volkswagen,Van,28919.02,4
+1264,Italy,Ford,Convertible,65632.76,1
+1265,Japan,Volkswagen,SUV,66525.14,3
+1266,South Korea,Honda,Convertible,77175.65,4
+1267,Germany,Toyota,Convertible,39217.55,4
+1268,France,BMW,Convertible,55501.71,4
+1269,Germany,Toyota,Van,42589.43,3
+1270,Italy,Mercedes,Sedan,26476.3,3
+1271,USA,BMW,SUV,90129.11,1
+1272,USA,Volkswagen,Van,78309.58,2
+1273,France,Mercedes,Convertible,44117.04,3
+1274,USA,BMW,Convertible,67949.84,2
+1275,USA,Honda,Sedan,36101.1,2
+1276,France,Honda,SUV,91218.93,3
+1277,South Korea,Honda,Hatchback,29192.51,4
+1278,South Korea,Honda,Van,20306.97,1
+1279,France,Volkswagen,Sedan,60160.66,2
+1280,Italy,Toyota,SUV,66650.23,4
+1281,USA,BMW,Van,66317.23,3
+1282,USA,Volkswagen,Convertible,24360.95,2
+1283,Italy,Honda,SUV,45123.5,2
+1284,South Korea,Toyota,SUV,59935.92,2
+1285,Japan,Mercedes,Truck,37326.33,4
+1286,Japan,Mercedes,SUV,89810.07,4
+1287,Japan,Mercedes,Hatchback,26968.74,4
+1288,South Korea,Honda,SUV,58990.76,2
+1289,South Korea,Mercedes,Hatchback,75313.28,2
+1290,Italy,Ford,Convertible,40940.09,1
+1291,USA,BMW,Hatchback,69939.26,1
+1292,Italy,BMW,Van,86350.81,4
+1293,Italy,Honda,Convertible,35226.96,4
+1294,South Korea,Ford,Convertible,93377.65,3
+1295,Japan,Volkswagen,Hatchback,64284.68,4
+1296,Germany,Volkswagen,Sedan,43938.56,1
+1297,USA,Mercedes,Coupe,54468.66,1
+1298,South Korea,Toyota,SUV,44975.35,1
+1299,Japan,Volkswagen,Truck,78008.89,2
+1300,Germany,Toyota,Coupe,83704.05,2
+1301,Germany,BMW,SUV,86634.99,4
+1302,South Korea,Toyota,SUV,98861.46,3
+1303,France,BMW,Convertible,83302.74,3
+1304,USA,Ford,SUV,68110.73,3
+1305,Germany,Ford,Truck,47137.62,2
+1306,South Korea,Honda,SUV,63567.64,1
+1307,South Korea,Honda,Hatchback,23285.45,1
+1308,Japan,Mercedes,Coupe,79586.01,2
+1309,France,Volkswagen,Hatchback,55676.44,3
+1310,USA,Mercedes,Truck,21601.86,3
+1311,Italy,BMW,SUV,25000.56,4
+1312,Japan,Mercedes,Van,50997.32,4
+1313,Germany,Toyota,Truck,66673.72,3
+1314,Germany,BMW,Convertible,57136.32,2
+1315,Japan,Honda,Hatchback,69536.35,3
+1316,South Korea,Ford,Hatchback,58423.54,4
+1317,Germany,Honda,Sedan,72936.31,3
+1318,France,Volkswagen,SUV,37530.09,2
+1319,USA,BMW,Convertible,29027.45,1
+1320,France,BMW,Van,67714.72,2
+1321,Germany,Toyota,Hatchback,58775.16,2
+1322,Italy,Volkswagen,Hatchback,22149.41,4
+1323,USA,Ford,Convertible,50438.55,2
+1324,USA,BMW,Truck,28490.05,2
+1325,Japan,BMW,Truck,62508.55,4
+1326,Japan,Toyota,SUV,51662.21,4
+1327,Italy,Mercedes,Sedan,69052.15,1
+1328,South Korea,Ford,Hatchback,84448.18,3
+1329,USA,Honda,Sedan,43973.49,2
+1330,Italy,Volkswagen,Truck,96968.17,4
+1331,Japan,BMW,Truck,62850.76,1
+1332,Japan,BMW,Coupe,69463.26,3
+1333,USA,Honda,Van,74453.79,4
+1334,France,Ford,SUV,73338.52,3
+1335,Germany,Mercedes,Coupe,60877.66,3
+1336,Japan,BMW,Van,54301.14,2
+1337,South Korea,Ford,Coupe,24302.56,2
+1338,South Korea,Honda,Coupe,21766.87,4
+1339,Japan,Toyota,SUV,48636.9,3
+1340,France,Mercedes,SUV,46692.87,4
+1341,France,Volkswagen,Convertible,51015.61,4
+1342,Italy,BMW,Sedan,31069.46,3
+1343,South Korea,Ford,Sedan,79053.46,4
+1344,Italy,Toyota,Convertible,88557.15,3
+1345,South Korea,Volkswagen,Convertible,95097.17,3
+1346,Germany,Ford,Truck,59388.98,3
+1347,Germany,Ford,Van,76069.26,3
+1348,USA,Volkswagen,Coupe,88444.09,1
+1349,Italy,Toyota,Convertible,53463.29,3
+1350,Japan,Honda,Hatchback,44753.02,2
+1351,Italy,Toyota,Sedan,94937.96,2
+1352,Japan,Mercedes,Convertible,61254.12,2
+1353,France,BMW,Hatchback,59780.31,3
+1354,Italy,Volkswagen,Hatchback,34273.29,2
+1355,France,Honda,Hatchback,28652.4,1
+1356,Germany,Volkswagen,Truck,87368.55,4
+1357,Germany,Volkswagen,Truck,69130.65,3
+1358,USA,Toyota,Hatchback,46065.97,2
+1359,Italy,BMW,Van,35338.9,1
+1360,France,Mercedes,Truck,64439.78,4
+1361,Japan,Ford,Coupe,66713.54,1
+1362,Germany,Ford,Hatchback,36559.49,2
+1363,Germany,Volkswagen,Coupe,88112.46,1
+1364,Japan,BMW,Coupe,26741.15,4
+1365,France,Honda,Hatchback,48487.45,2
+1366,France,Toyota,Sedan,74430.75,4
+1367,Italy,BMW,Van,41929.63,1
+1368,Italy,BMW,Hatchback,86214.02,3
+1369,South Korea,Toyota,Hatchback,79189.43,3
+1370,South Korea,Volkswagen,Truck,83121.83,3
+1371,USA,BMW,Hatchback,29528.52,3
+1372,Germany,Ford,Sedan,31243.77,4
+1373,Italy,Toyota,Truck,42917.9,3
+1374,France,Honda,SUV,61446.17,4
+1375,Japan,Mercedes,SUV,79841.29,2
+1376,France,Volkswagen,Coupe,86922.47,3
+1377,Germany,Toyota,Van,76346.83,4
+1378,South Korea,Mercedes,Coupe,94287.75,3
+1379,France,Mercedes,Sedan,79099.48,3
+1380,USA,Honda,Convertible,44501.43,3
+1381,Germany,BMW,Van,41206.5,4
+1382,South Korea,Honda,SUV,75695.4,1
+1383,Japan,BMW,Coupe,35429.65,3
+1384,South Korea,BMW,SUV,27417.18,3
+1385,USA,Toyota,Sedan,62577.83,2
+1386,Germany,Toyota,Sedan,85731.33,1
+1387,Japan,Volkswagen,Convertible,28110.39,4
+1388,USA,BMW,Convertible,83351.31,2
+1389,South Korea,Mercedes,Truck,84925.76,3
+1390,USA,Ford,Van,58581.92,2
+1391,Germany,Volkswagen,Sedan,24584.82,2
+1392,Italy,Toyota,Coupe,33967.19,3
+1393,USA,Honda,SUV,76594.1,1
+1394,USA,Volkswagen,Hatchback,76942.24,1
+1395,South Korea,Volkswagen,Convertible,91868.42,2
+1396,South Korea,Volkswagen,Hatchback,66614.89,3
+1397,Japan,Volkswagen,Coupe,29928.59,4
+1398,South Korea,Ford,Convertible,29713.19,2
+1399,France,Honda,Hatchback,77690.59,4
+1400,Germany,Honda,Van,34702.77,2
+1401,Germany,Honda,Coupe,46270.84,2
+1402,Italy,BMW,SUV,58976.96,3
+1403,Italy,Mercedes,Van,21981.19,3
+1404,Germany,Honda,Coupe,39905.52,4
+1405,Italy,Volkswagen,Truck,52631.17,4
+1406,Japan,Volkswagen,Convertible,42370.91,1
+1407,South Korea,Honda,Sedan,30909.63,3
+1408,Germany,Honda,SUV,78240.98,2
+1409,Italy,Volkswagen,Van,85051.81,2
+1410,Germany,BMW,Van,40598.32,1
+1411,France,Toyota,Hatchback,81953.56,3
+1412,USA,Toyota,Convertible,50844.29,2
+1413,South Korea,Honda,Sedan,60534.86,1
+1414,Germany,Ford,Coupe,88480.09,1
+1415,USA,Honda,Sedan,79996.29,2
+1416,Italy,Honda,Convertible,84409.35,2
+1417,USA,Toyota,Convertible,30947.61,4
+1418,South Korea,Volkswagen,Truck,25577.55,3
+1419,Germany,Honda,Truck,91472.38,4
+1420,France,Volkswagen,Sedan,51026.74,1
+1421,Italy,Volkswagen,Coupe,43030.37,2
+1422,Germany,Ford,Sedan,77975.7,4
+1423,South Korea,Volkswagen,Convertible,86913.25,1
+1424,Italy,Toyota,Convertible,88999.17,3
+1425,Japan,BMW,Hatchback,45279.77,2
+1426,USA,BMW,Truck,88176.99,4
+1427,South Korea,Mercedes,Hatchback,23274.72,3
+1428,Japan,Honda,SUV,23972.92,4
+1429,Germany,Toyota,Convertible,69881.54,1
+1430,France,Volkswagen,Hatchback,25048.51,3
+1431,Italy,BMW,Sedan,45968.73,4
+1432,USA,Toyota,Truck,73820.48,3
+1433,Italy,BMW,Truck,46981.35,1
+1434,Germany,Volkswagen,Coupe,34367.98,3
+1435,Italy,BMW,Sedan,42508.05,4
+1436,USA,Honda,Coupe,56606.03,1
+1437,Germany,Honda,Hatchback,58030.87,2
+1438,Italy,Mercedes,Van,82640.02,4
+1439,France,Mercedes,SUV,80012.26,4
+1440,South Korea,BMW,Sedan,56545.42,1
+1441,Germany,Toyota,Sedan,87653.39,1
+1442,South Korea,Honda,Sedan,29138.97,2
+1443,Germany,Toyota,Coupe,40428.27,4
+1444,France,Toyota,Hatchback,86238.12,1
+1445,South Korea,BMW,Sedan,50239.52,2
+1446,Japan,Toyota,Van,98494.52,2
+1447,USA,Honda,Sedan,57300.26,1
+1448,Japan,Volkswagen,Truck,83354.85,4
+1449,Italy,Mercedes,SUV,52184.56,3
+1450,France,Volkswagen,Truck,53996.28,3
+1451,Japan,Toyota,Truck,50630.65,2
+1452,Germany,Volkswagen,SUV,77526.05,3
+1453,Italy,Honda,Van,63801.43,3
+1454,Italy,Honda,Hatchback,95502.25,1
+1455,Japan,Toyota,Truck,40071.23,2
+1456,Japan,BMW,Hatchback,28045.02,4
+1457,France,Volkswagen,Truck,51460.92,2
+1458,USA,BMW,Convertible,69337.02,1
+1459,Japan,BMW,SUV,88863.91,3
+1460,Japan,Ford,Truck,47695.75,4
+1461,South Korea,Toyota,Convertible,72302.94,2
+1462,Germany,Mercedes,Coupe,48015.89,3
+1463,South Korea,Honda,Convertible,69377.57,2
+1464,South Korea,Honda,Sedan,90784.64,4
+1465,Italy,Toyota,Truck,38508.61,2
+1466,USA,Mercedes,Convertible,52339.33,2
+1467,Germany,Honda,Hatchback,99461.22,2
+1468,France,Toyota,Coupe,89484.56,3
+1469,France,Honda,Van,65171.19,4
+1470,Japan,BMW,Truck,61330.21,4
+1471,Japan,Volkswagen,Sedan,42768.03,3
+1472,France,Volkswagen,Van,61376.75,3
+1473,Japan,Honda,Convertible,87854.52,3
+1474,USA,Ford,Van,74813.96,1
+1475,South Korea,Mercedes,Van,43203.52,2
+1476,Japan,Mercedes,Coupe,36117.11,2
+1477,Italy,Mercedes,Van,41216.68,4
+1478,Japan,BMW,Van,33580.74,2
+1479,Germany,Mercedes,Truck,27651.26,1
+1480,USA,Volkswagen,Coupe,53530.89,3
+1481,Germany,BMW,Sedan,29063.97,4
+1482,Germany,Toyota,Convertible,33753.0,4
+1483,Italy,Mercedes,Coupe,63785.97,2
+1484,USA,Mercedes,Coupe,33167.94,4
+1485,USA,Toyota,SUV,25110.38,3
+1486,USA,Mercedes,Coupe,45391.11,4
+1487,USA,Toyota,SUV,37625.53,3
+1488,USA,BMW,Convertible,61224.42,1
+1489,Italy,Volkswagen,Van,28189.37,1
+1490,Japan,Toyota,Truck,80141.66,3
+1491,Germany,Ford,Truck,92498.68,2
+1492,USA,Toyota,Convertible,79474.81,4
+1493,Japan,Mercedes,Convertible,62626.16,2
+1494,Japan,BMW,Hatchback,88853.43,4
+1495,Germany,Honda,Van,75593.47,1
+1496,Italy,BMW,Convertible,20844.09,1
+1497,France,Honda,Coupe,51527.21,1
+1498,France,Toyota,Truck,88076.15,4
+1499,Japan,Volkswagen,Sedan,47668.71,1
+1500,South Korea,Ford,Truck,22817.21,1
+1501,South Korea,BMW,SUV,79694.37,1
+1502,Germany,Mercedes,Truck,84163.06,1
+1503,France,Honda,Hatchback,32847.5,2
+1504,Japan,Mercedes,Van,62987.24,1
+1505,Italy,Volkswagen,Convertible,35356.44,1
+1506,France,Honda,Van,77538.75,2
+1507,Japan,BMW,Convertible,41724.04,2
+1508,Japan,Toyota,Truck,45297.21,4
+1509,USA,Mercedes,Sedan,87597.67,3
+1510,Italy,Volkswagen,Sedan,58105.79,1
+1511,USA,BMW,Hatchback,73580.36,1
+1512,Germany,BMW,SUV,52189.84,1
+1513,USA,BMW,Truck,43840.55,4
+1514,USA,BMW,Convertible,70038.24,1
+1515,France,Honda,Truck,32388.61,3
+1516,South Korea,BMW,Hatchback,49839.99,2
+1517,Japan,Mercedes,Coupe,36722.96,4
+1518,Italy,Volkswagen,Coupe,75663.6,2
+1519,USA,Honda,Hatchback,95536.71,1
+1520,Italy,BMW,Convertible,99640.88,1
+1521,South Korea,Ford,Van,56022.14,1
+1522,South Korea,Ford,Hatchback,40202.43,3
+1523,USA,Volkswagen,Convertible,55426.35,3
+1524,Germany,Toyota,Sedan,87781.55,4
+1525,USA,Toyota,Hatchback,36480.45,2
+1526,France,Honda,Convertible,96167.65,1
+1527,Japan,Honda,Hatchback,47349.26,1
+1528,Germany,Honda,Hatchback,98864.29,1
+1529,USA,Toyota,Van,87088.71,1
+1530,Italy,Ford,Van,84685.64,3
+1531,Germany,Toyota,Convertible,45432.37,2
+1532,Germany,Mercedes,Convertible,20702.18,2
+1533,USA,BMW,SUV,50570.63,4
+1534,Germany,Honda,Hatchback,44144.75,3
+1535,Italy,Ford,Coupe,22991.76,1
+1536,South Korea,Volkswagen,Hatchback,60429.22,2
+1537,Germany,Volkswagen,Hatchback,52242.5,2
+1538,South Korea,BMW,Convertible,70764.52,3
+1539,Italy,Ford,Hatchback,69694.91,4
+1540,USA,Toyota,Truck,29659.73,4
+1541,Japan,Toyota,Hatchback,98157.24,1
+1542,Germany,Mercedes,Truck,34954.51,4
+1543,Japan,Mercedes,Van,55621.92,2
+1544,Italy,Toyota,Coupe,59049.4,4
+1545,Germany,Volkswagen,Convertible,85045.02,1
+1546,South Korea,Honda,Hatchback,27938.37,2
+1547,France,Volkswagen,Truck,54291.54,4
+1548,Japan,Mercedes,Truck,70280.17,4
+1549,Germany,BMW,Van,37212.45,3
+1550,Japan,Toyota,Truck,70197.43,1
+1551,Germany,Mercedes,Sedan,93893.19,4
+1552,USA,Mercedes,SUV,99801.45,3
+1553,South Korea,Honda,Coupe,22596.09,2
+1554,Japan,Toyota,Van,38847.06,3
+1555,France,Honda,Van,44824.57,3
+1556,France,Toyota,Hatchback,51930.09,4
+1557,Italy,Honda,Sedan,39380.57,4
+1558,Germany,Volkswagen,Hatchback,36279.04,4
+1559,Japan,BMW,Hatchback,96364.31,3
+1560,Italy,BMW,Convertible,93481.73,2
+1561,Japan,Toyota,Convertible,23759.4,1
+1562,Germany,Ford,Convertible,47105.04,3
+1563,France,Mercedes,Sedan,52411.88,4
+1564,USA,Mercedes,Hatchback,39121.16,1
+1565,France,Toyota,SUV,70309.83,2
+1566,Italy,Honda,Coupe,71230.46,1
+1567,South Korea,Ford,Convertible,88040.34,4
+1568,USA,Volkswagen,Convertible,79269.54,3
+1569,Italy,Honda,Van,63405.87,3
+1570,Germany,Honda,Hatchback,72286.94,4
+1571,USA,Toyota,Hatchback,41919.1,3
+1572,Italy,Toyota,Sedan,67444.5,4
+1573,Germany,Mercedes,Sedan,59138.18,3
+1574,France,Toyota,Convertible,30667.56,3
+1575,South Korea,Toyota,Hatchback,39403.54,3
+1576,Germany,Toyota,SUV,43335.48,2
+1577,Japan,Mercedes,Coupe,93944.77,2
+1578,Germany,Volkswagen,Hatchback,38430.93,4
+1579,Germany,Volkswagen,Van,43139.51,2
+1580,South Korea,Toyota,Hatchback,49548.33,4
+1581,Japan,Mercedes,Truck,73099.42,1
+1582,Italy,Volkswagen,Sedan,29459.07,1
+1583,Italy,Honda,Van,96315.62,2
+1584,Germany,Volkswagen,Coupe,89245.7,1
+1585,Japan,Volkswagen,Convertible,66177.29,1
+1586,Japan,Mercedes,Van,73923.03,3
+1587,South Korea,Honda,Hatchback,21332.84,3
+1588,France,Mercedes,Convertible,47115.58,4
+1589,Italy,Toyota,Hatchback,83652.82,1
+1590,South Korea,BMW,Convertible,26198.64,4
+1591,USA,Volkswagen,Coupe,42585.11,4
+1592,Italy,BMW,Sedan,66823.75,1
+1593,South Korea,Mercedes,Coupe,40513.04,2
+1594,Italy,Mercedes,Truck,94718.24,1
+1595,France,Mercedes,SUV,30484.69,3
+1596,USA,BMW,Sedan,83791.55,1
+1597,France,Mercedes,Coupe,60635.9,2
+1598,USA,Toyota,Truck,80026.46,4
+1599,Germany,Mercedes,SUV,44857.23,4
+1600,South Korea,Ford,Truck,61159.17,3
+1601,USA,BMW,Hatchback,88546.83,3
+1602,France,Ford,Hatchback,57350.25,3
+1603,Italy,Mercedes,Convertible,48777.59,4
+1604,USA,Toyota,Sedan,62892.43,3
+1605,South Korea,Volkswagen,Hatchback,77389.02,1
+1606,USA,Honda,Van,55485.07,4
+1607,Japan,Honda,Truck,95110.16,2
+1608,Italy,Mercedes,Sedan,43595.67,4
+1609,South Korea,Toyota,Van,58037.09,1
+1610,South Korea,BMW,Hatchback,80554.21,1
+1611,Germany,Ford,Convertible,75129.69,3
+1612,France,Ford,Coupe,89091.28,4
+1613,Germany,Ford,Convertible,99744.73,4
+1614,South Korea,BMW,Van,54148.67,4
+1615,Italy,Honda,SUV,28892.07,2
+1616,USA,Toyota,Hatchback,22433.27,3
+1617,USA,BMW,Van,78150.15,1
+1618,Italy,Ford,SUV,89921.09,1
+1619,South Korea,Mercedes,SUV,37657.01,3
+1620,USA,Volkswagen,Truck,32675.84,1
+1621,USA,BMW,Sedan,24976.41,1
+1622,USA,BMW,Truck,85816.23,3
+1623,France,Toyota,Hatchback,44910.56,1
+1624,France,Toyota,SUV,52135.75,4
+1625,Japan,BMW,Van,60220.02,2
+1626,Germany,Ford,Coupe,87156.26,3
+1627,Italy,Volkswagen,SUV,72066.66,2
+1628,Italy,Toyota,Van,69205.17,1
+1629,Italy,Ford,Coupe,34053.77,1
+1630,Japan,Mercedes,Truck,61055.19,4
+1631,France,Toyota,Truck,77230.48,3
+1632,South Korea,Ford,Sedan,97860.87,1
+1633,South Korea,Ford,Van,36112.5,3
+1634,Japan,Volkswagen,SUV,20763.47,3
+1635,South Korea,Volkswagen,Convertible,26024.11,3
+1636,Italy,Mercedes,Truck,50068.2,3
+1637,Germany,Ford,Truck,85643.57,3
+1638,USA,Honda,Sedan,20571.37,2
+1639,France,Ford,Coupe,56538.45,4
+1640,France,Volkswagen,Sedan,46338.45,3
+1641,Japan,Honda,SUV,24198.54,2
+1642,France,Toyota,Van,56018.9,1
+1643,Italy,Toyota,Hatchback,40379.9,3
+1644,South Korea,BMW,Hatchback,48150.79,1
+1645,Italy,Volkswagen,Van,76449.22,3
+1646,Japan,BMW,Coupe,61724.08,2
+1647,Italy,Honda,Truck,29971.79,2
+1648,South Korea,Volkswagen,Coupe,96913.16,2
+1649,Germany,Mercedes,Truck,70872.86,4
+1650,Japan,Ford,Truck,81269.47,1
+1651,Germany,Mercedes,Hatchback,26337.05,4
+1652,USA,Honda,Coupe,23764.67,3
+1653,Germany,Volkswagen,Sedan,21555.84,1
+1654,USA,Honda,Truck,35103.52,2
+1655,USA,Ford,Convertible,53152.67,1
+1656,Germany,Toyota,Convertible,94866.09,2
+1657,Japan,Toyota,Sedan,56564.77,4
+1658,South Korea,Honda,Convertible,43220.41,4
+1659,Italy,BMW,SUV,64954.82,2
+1660,Italy,Volkswagen,Truck,28954.77,2
+1661,South Korea,Volkswagen,Sedan,68760.47,3
+1662,USA,Toyota,Coupe,65474.56,4
+1663,USA,Mercedes,Truck,83359.44,4
+1664,Japan,Ford,Sedan,98935.01,3
+1665,France,Mercedes,Hatchback,40069.88,4
+1666,Germany,Mercedes,Coupe,60772.52,2
+1667,USA,Honda,Hatchback,92709.23,1
+1668,Italy,Toyota,Truck,82815.19,1
+1669,Japan,Toyota,Coupe,58992.5,4
+1670,Germany,Toyota,Convertible,95629.73,3
+1671,Japan,Honda,Sedan,24578.94,2
+1672,Germany,BMW,Truck,94479.89,1
+1673,Germany,Mercedes,SUV,24040.59,2
+1674,South Korea,Honda,Coupe,63784.38,4
+1675,USA,Volkswagen,Coupe,91235.28,4
+1676,Japan,Ford,Van,41017.68,1
+1677,Japan,BMW,Truck,57779.88,4
+1678,South Korea,Volkswagen,Truck,45946.31,3
+1679,Italy,Mercedes,Hatchback,96171.51,4
+1680,Italy,Toyota,Van,85891.65,4
+1681,USA,Mercedes,Convertible,76720.12,4
+1682,USA,Honda,Hatchback,67010.16,2
+1683,France,Ford,Van,85647.34,2
+1684,South Korea,Honda,Hatchback,51381.36,1
+1685,Italy,BMW,Convertible,55804.15,1
+1686,Germany,BMW,Van,78400.14,1
+1687,Japan,Ford,Van,48620.38,4
+1688,USA,Volkswagen,SUV,25112.08,2
+1689,Japan,Volkswagen,Hatchback,25946.77,3
+1690,Japan,BMW,Hatchback,29229.02,4
+1691,France,BMW,Coupe,89574.51,4
+1692,Italy,Toyota,Convertible,57778.11,4
+1693,USA,Volkswagen,Sedan,77030.59,3
+1694,Japan,Ford,SUV,51432.75,1
+1695,USA,Volkswagen,Van,40696.88,3
+1696,Germany,Toyota,Van,47775.37,1
+1697,France,Honda,Van,83534.59,3
+1698,Germany,BMW,SUV,70017.29,2
+1699,USA,BMW,Van,95011.18,4
+1700,USA,Toyota,Van,74376.38,4
+1701,Italy,Ford,Convertible,65614.53,4
+1702,Japan,BMW,Truck,68815.68,1
+1703,Japan,Mercedes,Truck,95389.72,3
+1704,Germany,BMW,Coupe,83056.07,2
+1705,France,Mercedes,Coupe,21923.3,3
+1706,South Korea,Toyota,Van,62731.18,4
+1707,Japan,Toyota,Convertible,75067.07,2
+1708,Italy,BMW,Van,79895.88,2
+1709,Germany,Volkswagen,Coupe,37051.37,4
+1710,Germany,Mercedes,SUV,89374.19,3
+1711,South Korea,Ford,SUV,96467.45,4
+1712,Italy,BMW,Sedan,38937.22,3
+1713,France,Ford,Truck,90609.24,2
+1714,Italy,BMW,Convertible,27758.3,2
+1715,France,Volkswagen,Hatchback,24456.55,4
+1716,Italy,Volkswagen,Truck,30337.9,2
+1717,Italy,Volkswagen,Hatchback,24619.29,1
+1718,USA,Honda,Sedan,87600.98,2
+1719,Germany,Volkswagen,Sedan,24724.01,1
+1720,Italy,Toyota,Van,41733.14,2
+1721,South Korea,Toyota,Coupe,28300.51,4
+1722,Italy,Honda,Sedan,43633.76,4
+1723,Japan,Mercedes,Sedan,27244.76,1
+1724,Germany,Ford,Hatchback,73440.26,4
+1725,Japan,BMW,Coupe,30666.15,2
+1726,Germany,BMW,Sedan,88147.67,2
+1727,Japan,Honda,Truck,85375.28,4
+1728,Italy,Toyota,Sedan,21092.93,2
+1729,Italy,BMW,Coupe,91658.11,3
+1730,USA,Toyota,Van,22315.55,3
+1731,South Korea,Mercedes,Convertible,39171.66,2
+1732,Japan,Ford,Coupe,22591.13,4
+1733,France,Mercedes,Hatchback,46867.48,1
+1734,USA,Honda,Convertible,61109.32,4
+1735,Japan,Volkswagen,Truck,83731.59,1
+1736,Japan,Volkswagen,SUV,47038.52,4
+1737,USA,Volkswagen,Coupe,76439.2,2
+1738,Italy,Mercedes,Van,35000.36,3
+1739,Japan,BMW,Hatchback,80047.88,4
+1740,Italy,Ford,Truck,38879.73,1
+1741,USA,Volkswagen,Convertible,31483.58,3
+1742,Italy,Honda,Truck,34832.71,1
+1743,Germany,Honda,Coupe,34565.05,2
+1744,France,Volkswagen,Sedan,61029.03,3
+1745,Japan,Volkswagen,Van,87583.81,1
+1746,South Korea,Ford,Coupe,26368.41,4
+1747,France,Volkswagen,SUV,76556.51,2
+1748,Italy,Ford,Coupe,72347.72,2
+1749,Japan,Honda,Convertible,89801.6,2
+1750,Italy,Volkswagen,Convertible,39531.8,4
+1751,Germany,Mercedes,Coupe,56008.79,4
+1752,USA,Mercedes,Convertible,94066.19,3
+1753,Japan,Honda,Sedan,72799.48,4
+1754,Germany,Ford,Truck,51101.47,3
+1755,Germany,Mercedes,Coupe,30512.99,2
+1756,Japan,Ford,Van,40998.8,3
+1757,Italy,Mercedes,Sedan,66497.24,1
+1758,South Korea,Mercedes,Truck,77453.44,2
+1759,Germany,Ford,Van,29953.75,2
+1760,France,BMW,Van,67967.78,3
+1761,Germany,Mercedes,Van,64028.1,2
+1762,South Korea,Volkswagen,Truck,61116.44,4
+1763,Italy,Honda,Sedan,75209.85,1
+1764,Italy,BMW,Van,86995.97,3
+1765,France,Ford,Van,45839.17,3
+1766,Germany,BMW,Hatchback,91120.98,2
+1767,Italy,Toyota,Coupe,32850.69,4
+1768,South Korea,Toyota,Truck,33841.91,2
+1769,Japan,Mercedes,Truck,41341.77,2
+1770,USA,Mercedes,Convertible,29562.47,3
+1771,USA,Volkswagen,Truck,38425.54,2
+1772,USA,Honda,Sedan,28512.94,1
+1773,Germany,BMW,Truck,85740.19,2
+1774,France,Toyota,Hatchback,31117.52,2
+1775,Italy,Mercedes,Coupe,79783.8,3
+1776,Japan,Honda,Coupe,23833.11,2
+1777,South Korea,BMW,Truck,95881.63,4
+1778,Japan,Mercedes,Van,76892.81,3
+1779,South Korea,Mercedes,SUV,20543.72,2
+1780,Germany,Toyota,SUV,81108.52,1
+1781,USA,Toyota,Van,61126.55,1
+1782,Germany,Mercedes,Van,82349.21,3
+1783,France,Ford,Van,61799.74,3
+1784,France,Mercedes,Sedan,71281.99,2
+1785,South Korea,Honda,SUV,82906.53,4
+1786,Italy,Mercedes,Van,52408.64,2
+1787,Italy,Volkswagen,Sedan,20216.65,1
+1788,South Korea,Volkswagen,Convertible,87995.72,4
+1789,France,Volkswagen,Sedan,50471.23,4
+1790,France,Ford,SUV,59683.42,4
+1791,France,Ford,Truck,20621.33,2
+1792,Germany,Mercedes,Convertible,59367.36,1
+1793,France,Volkswagen,SUV,98918.99,3
+1794,Japan,Ford,Sedan,42261.41,2
+1795,USA,Toyota,Hatchback,51633.46,3
+1796,France,Mercedes,Coupe,74975.2,4
+1797,South Korea,Honda,SUV,85183.49,4
+1798,USA,BMW,Van,53391.33,2
+1799,Germany,Mercedes,Sedan,44773.51,1
+1800,South Korea,BMW,Van,95026.06,4
+1801,USA,Volkswagen,Van,74171.6,3
+1802,South Korea,BMW,Van,29521.7,3
+1803,Germany,Volkswagen,Van,25514.23,2
+1804,Japan,Toyota,Van,58683.99,3
+1805,Germany,BMW,Convertible,37607.21,1
+1806,Germany,Mercedes,SUV,40318.78,4
+1807,South Korea,Volkswagen,SUV,90215.37,3
+1808,Italy,Mercedes,Coupe,27165.28,3
+1809,France,Ford,Sedan,77229.13,4
+1810,France,Volkswagen,Hatchback,41691.38,2
+1811,Japan,BMW,Convertible,80826.26,3
+1812,Japan,Volkswagen,Sedan,77792.91,2
+1813,France,Mercedes,Convertible,20591.35,2
+1814,Italy,Toyota,SUV,60730.83,3
+1815,France,Volkswagen,Van,31145.56,1
+1816,Italy,BMW,Coupe,89298.16,2
+1817,Japan,Ford,Coupe,89726.87,3
+1818,USA,Honda,Truck,53467.66,2
+1819,South Korea,Toyota,Hatchback,55551.65,4
+1820,Japan,Ford,Coupe,44262.64,1
+1821,Japan,Volkswagen,Van,77328.5,1
+1822,Germany,Mercedes,SUV,48692.91,4
+1823,Germany,Mercedes,Hatchback,41423.4,4
+1824,Germany,BMW,Sedan,54578.48,2
+1825,South Korea,Mercedes,Van,27319.0,4
+1826,Germany,Toyota,Van,79728.26,1
+1827,Italy,Mercedes,Coupe,21007.71,4
+1828,France,BMW,Hatchback,71558.8,3
+1829,USA,Honda,SUV,34629.16,3
+1830,Japan,Volkswagen,Truck,38592.32,2
+1831,Italy,Volkswagen,Convertible,70850.56,1
+1832,USA,Mercedes,Convertible,99435.48,3
+1833,Italy,Ford,SUV,82217.4,4
+1834,Italy,Volkswagen,SUV,38067.17,3
+1835,Japan,Honda,Convertible,34081.98,3
+1836,France,Mercedes,Truck,89298.63,2
+1837,Germany,BMW,Hatchback,55534.72,4
+1838,South Korea,Honda,Convertible,30964.22,4
+1839,France,Mercedes,SUV,88976.91,4
+1840,South Korea,Honda,Coupe,85287.39,2
+1841,Japan,Volkswagen,Sedan,98712.51,4
+1842,Japan,BMW,Truck,92779.49,4
+1843,Japan,Mercedes,Van,88143.23,3
+1844,USA,Toyota,Truck,24205.95,3
+1845,South Korea,BMW,Coupe,28353.23,4
+1846,France,Toyota,Coupe,65518.66,1
+1847,France,Honda,Van,62518.34,1
+1848,Italy,Ford,SUV,56637.06,4
+1849,Italy,BMW,Convertible,51743.15,1
+1850,Italy,Honda,Hatchback,54496.84,2
+1851,Japan,Toyota,Truck,65543.83,3
+1852,France,Volkswagen,Van,20166.12,2
+1853,South Korea,Volkswagen,Truck,40856.7,3
+1854,Japan,Ford,Coupe,61462.38,1
+1855,USA,BMW,Convertible,77777.29,1
+1856,Italy,BMW,Truck,33932.54,4
+1857,Japan,BMW,Hatchback,63750.49,1
+1858,Japan,Honda,Coupe,77156.77,1
+1859,USA,Ford,Hatchback,55570.21,4
+1860,Germany,BMW,Convertible,22166.49,4
+1861,France,Honda,Truck,55941.45,3
+1862,South Korea,Volkswagen,Sedan,43715.59,1
+1863,Germany,Toyota,Truck,94371.97,3
+1864,Italy,Honda,Convertible,29969.07,3
+1865,Japan,Volkswagen,Truck,72198.08,2
+1866,USA,Volkswagen,Van,24217.58,1
+1867,USA,Toyota,Truck,55693.64,1
+1868,France,Volkswagen,SUV,64318.36,2
+1869,Germany,Ford,Truck,43836.39,3
+1870,France,Toyota,Truck,56406.05,1
+1871,Japan,Volkswagen,Hatchback,33084.3,3
+1872,France,Mercedes,Sedan,44329.91,2
+1873,South Korea,Honda,Hatchback,69688.51,4
+1874,USA,Volkswagen,Hatchback,44144.0,3
+1875,USA,Ford,Coupe,91979.45,1
+1876,Italy,BMW,SUV,70272.56,4
+1877,Italy,Volkswagen,Hatchback,55091.92,3
+1878,Japan,BMW,Van,23100.55,3
+1879,South Korea,Mercedes,Convertible,59963.87,4
+1880,Germany,Volkswagen,Van,81182.1,4
+1881,France,Toyota,Convertible,41244.61,4
+1882,Japan,BMW,Truck,84541.89,1
+1883,Italy,Mercedes,Coupe,40144.54,1
+1884,France,Toyota,SUV,85899.71,3
+1885,Italy,Toyota,Van,26821.47,3
+1886,France,Toyota,SUV,89294.7,2
+1887,Germany,Toyota,Van,59934.92,1
+1888,Japan,Volkswagen,Truck,43723.01,3
+1889,France,Honda,Convertible,41209.06,4
+1890,South Korea,Volkswagen,Sedan,54560.84,4
+1891,USA,Volkswagen,Coupe,99923.96,1
+1892,South Korea,Mercedes,Van,37626.19,4
+1893,South Korea,Mercedes,Van,28257.33,2
+1894,USA,Honda,Truck,66802.81,3
+1895,South Korea,Mercedes,Coupe,59083.4,3
+1896,France,Ford,Convertible,61935.7,3
+1897,France,Honda,Convertible,73354.83,1
+1898,France,Mercedes,Van,41371.53,4
+1899,USA,Honda,Sedan,92853.2,2
+1900,South Korea,Volkswagen,Sedan,54853.77,1
+1901,USA,Volkswagen,SUV,30326.9,3
+1902,France,Honda,Coupe,79383.9,2
+1903,South Korea,Ford,Coupe,71448.35,3
+1904,South Korea,Ford,Convertible,45259.47,3
+1905,Italy,Honda,SUV,69721.5,1
+1906,Italy,Mercedes,Truck,37588.96,3
+1907,Germany,BMW,Coupe,55587.15,2
+1908,Japan,Ford,SUV,91953.0,3
+1909,Italy,Toyota,SUV,30682.74,4
+1910,USA,Volkswagen,Van,50935.72,3
+1911,Italy,Honda,Convertible,85691.39,1
+1912,Germany,Toyota,SUV,97559.27,2
+1913,South Korea,Honda,Sedan,56314.09,1
+1914,Germany,Volkswagen,Sedan,60559.97,4
+1915,South Korea,Volkswagen,Hatchback,65773.76,3
+1916,South Korea,Ford,Convertible,94587.85,1
+1917,Japan,Ford,Van,88656.54,1
+1918,Italy,Toyota,Truck,33648.09,1
+1919,USA,Honda,Hatchback,54940.63,1
+1920,USA,Volkswagen,Sedan,57120.03,4
+1921,France,Toyota,Van,83127.69,4
+1922,South Korea,BMW,Hatchback,68231.43,3
+1923,USA,Toyota,Convertible,72337.64,3
+1924,Japan,Mercedes,Van,99855.99,2
